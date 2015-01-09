@@ -16,6 +16,9 @@ http://dawa.aws.dk/
 Dansk Kultur Arv
 http://www.danskkulturarv.dk/api/
 
+Historisk Atlas 
+http://blog.historiskatlas.dk/api/
+
 ## Hosting
 Unoeuro
 https://www.unoeuro.com/docs/api.php
@@ -35,8 +38,9 @@ https://www.e-conomic.dk/regnskabsprogram/moduler/api
 Etilbudsavis
 http://engineering.etilbudsavis.dk/eta-api/
 
-Historisk Atlas 
-http://blog.historiskatlas.dk/api/
+Dansk supermarked
+https://developer.dansksupermarked.dk/v1/api/reference/overview/
+
 
 ## Transport
 
@@ -46,6 +50,15 @@ http://www.dsb.dk/dsb-labs/feeds/
 DSB stationsafgange
 http://www.dsb.dk/dsb-labs/webservice-stationsafgange/
 
+Rejseplanen Labs
+http://labs.rejseplanen.dk/
 
+## Etc
+
+Folketinget API
+http://www.ft.dk/AabneData
+
+Statistikbanken
+http://www.dst.dk/da/Statistik/statistikbanken.aspx
 
 
