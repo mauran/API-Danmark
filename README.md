@@ -2,13 +2,16 @@
 Liste over danske API'er.
 Kender du et dansk API som ikke er på listen? Så send en pull request! 
 
+
 ## CVR
 CVRAPI
 http://cvrapi.dk
 
+
 ## Geografisk API
 Danmarks Adressers Web API - DAWA
 http://dawa.aws.dk/
+
 
 ## Historie
 Dansk Kultur Arv
@@ -16,6 +19,7 @@ http://www.danskkulturarv.dk/api/
 
 Historisk Atlas 
 http://blog.historiskatlas.dk/api/
+
 
 ## Hosting
 UnoEuro
@@ -29,10 +33,9 @@ e-conomic
 https://www.e-conomic.dk/regnskabsprogram/moduler/api
 
 
-
 ## Reklamer
 eTilbudsavis
-http://engineering.etilbudsavis.dk/eta-api/
+http://docs.api.etilbudsavis.dk
 
 Dansk Supermarked
 https://developer.dansksupermarked.dk/v1/api/reference/overview/
@@ -47,6 +50,7 @@ http://www.dsb.dk/dsb-labs/webservice-stationsafgange/
 
 Rejseplanen Labs
 http://labs.rejseplanen.dk/
+
 
 ## Diverse
 Folketinget API
