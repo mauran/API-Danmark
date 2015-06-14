@@ -58,3 +58,7 @@ http://www.ft.dk/AabneData
 
 Statistikbanken
 http://www.dst.dk/da/Statistik/statistikbanken.aspx
+
+Berlingske Meningsmålninger
+http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml
+Eksempel: *http://www.b.dk/upload/webred/bmsandbox/opinion_poll/[year]/pollofpolls.xml*
