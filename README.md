@@ -3,6 +3,9 @@ Liste over danske API'er.
 Kender du et dansk API som ikke er på listen? Så send en pull request! 
 
 ## CVR
+System-til-system adgang til CVR-data (Erhvervsstyrelsen)
+http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data
+
 CVRAPI
 http://cvrapi.dk
 
@@ -62,3 +65,6 @@ http://www.dst.dk/da/Statistik/statistikbanken.aspx
 Berlingske Meningsmålninger
 http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml
 Eksempel: *http://www.b.dk/upload/webred/bmsandbox/opinion_poll/[year]/pollofpolls.xml*
+
+eniro API
+http://api.eniro.com
