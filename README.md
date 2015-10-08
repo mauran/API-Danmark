@@ -38,6 +38,9 @@ https://www.e-conomic.dk/regnskabsprogram/moduler/api
 Dinero (Alpha)
 https://api.dinero.dk/docs
 
+Debitoor
+https://debitoor.dk/åben-api
+
 ## Reklamer
 eTilbudsavis
 http://docs.api.etilbudsavis.dk
@@ -54,6 +57,17 @@ http://www.dsb.dk/dsb-labs/webservice-stationsafgange/
 
 Rejseplanen Labs
 http://labs.rejseplanen.dk/
+
+## Pakkepost
+PostNord Developer
+https://developer.postnord.com
+
+Pakkelabels.dk
+https://api.pakkelabels.dk
+
+CoolRunner
+http://docs.coolrunner.dk
+
 
 ## Diverse
 Folketinget API
