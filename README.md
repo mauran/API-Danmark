@@ -45,9 +45,6 @@ https://debitoor.dk/åben-api
 eTilbudsavis
 http://docs.api.etilbudsavis.dk
 
-Dansk Supermarked
-https://developer.dansksupermarked.dk/v1/api/reference/overview/
-
 ## Transport
 DSB feeds
 http://www.dsb.dk/dsb-labs/feeds/
@@ -68,6 +65,13 @@ https://api.pakkelabels.dk
 CoolRunner
 http://docs.coolrunner.dk
 
+## Detail & webshops
+Dansk Supermarked
+https://developer.dansksupermarked.dk/v1/api/reference/overview/
+
+SAXO.com
+http://api.saxo.com/
+
 
 ## Diverse
 Folketinget API
@@ -82,3 +86,4 @@ Eksempel: *http://www.b.dk/upload/webred/bmsandbox/opinion_poll/[year]/pollofpol
 
 eniro API
 http://api.eniro.com
+
