@@ -4,10 +4,11 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 
 ## Virksomhedsdata
 - [System-til-system adgang til CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data)
+- [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)
 - [CVRAPI](http://cvrapi.dk)
 - [eniro API](http://api.eniro.com)
 
-## Geografiske API’er
+## Geografiske
 - [Danmarks Adressers Web API - DAWA](http://dawa.aws.dk/)
 - [Mastadatabasen](http://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
 - [Kortforsyningen](http://www.kortforsyningen.dk/content/webtjenester)
@@ -48,8 +49,20 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 - [DR API](http://www.dr.dk/mu-online/)
 - [TV2 Vejret API](http://vejret-api.tv2.dk)
 
+## Statistiske data
+- [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
+- DST API
+	- [Information om API](http://www.dst.dk/da/Statistik/statistikbanken/api)
+	- [Konsol](http://api.statbank.dk/console#subjects)
+
+## Miljødata
+- Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
+	- [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
+	- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
+
 ## Diverse
 - [Folketinget API](http://www.ft.dk/AabneData)
-- [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
 
+### Kilder
+- [Åbne Offentlige Data Kilder](https://docs.google.com/document/d/1K6tA-vIhwffrZYqq9MJf4u6vm3QXQ1imLeVgehl2IU4/edit)
