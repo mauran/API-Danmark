@@ -10,7 +10,7 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 
 ## Geografiske
 - [Danmarks Adressers Web API - DAWA](http://dawa.aws.dk/)
-- [Mastadatabasen](http://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
+- [Mastedatabasen](http://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
 - [Kortforsyningen](http://www.kortforsyningen.dk/content/webtjenester)
 - [Frekvenser](https://erhvervsstyrelsen.dk/offentligt-api)
 
