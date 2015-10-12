@@ -41,6 +41,7 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 - [Pakkelabels.dk](https://api.pakkelabels.dk)
 - [CoolRunner](http://docs.coolrunner.dk)
 - [UPS](http://www.ams1907.com/content/dk/da/resources/sri/apidefinition.html)
+- [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
 
 ## Detail & webshops
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
