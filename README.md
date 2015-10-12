@@ -45,6 +45,9 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 	- [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
 	- [Parcel Processing](http://api.gls.dk/ws/)
 
+## SMS Gateways
+- [Txty.dk](http://api.txty.dk/4/)
+
 ## Detail & webshops
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
 - [SAXO.com](http://api.saxo.com/)
