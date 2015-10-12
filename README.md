@@ -41,7 +41,9 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 - [Pakkelabels.dk](https://api.pakkelabels.dk)
 - [CoolRunner](http://docs.coolrunner.dk)
 - [UPS](http://www.ams1907.com/content/dk/da/resources/sri/apidefinition.html)
-- [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
+- GLS
+	- [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
+	- [Parcel Processing](http://api.gls.dk/ws/)
 
 ## Detail & webshops
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
@@ -65,8 +67,8 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 ## Diverse
 - [Folketinget API](http://www.ft.dk/AabneData)
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
-- [Det danske Filminstitus](http://www.dfi.dk/opendata.aspx)
+- [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)
 - [Trustpilot](https://developers.trustpilot.com/)
 
-### Kilder
+#### Kilder
 - [Åbne Offentlige Data Kilder](https://docs.google.com/document/d/1K6tA-vIhwffrZYqq9MJf4u6vm3QXQ1imLeVgehl2IU4/edit)
