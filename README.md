@@ -63,6 +63,7 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 ## Diverse
 - [Folketinget API](http://www.ft.dk/AabneData)
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
+- [Trustpilot](https://developers.trustpilot.com/)
 
 ### Kilder
 - [Åbne Offentlige Data Kilder](https://docs.google.com/document/d/1K6tA-vIhwffrZYqq9MJf4u6vm3QXQ1imLeVgehl2IU4/edit)
