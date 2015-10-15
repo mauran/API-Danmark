@@ -33,7 +33,6 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 
 ## Transport
 - [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
-- [DSB stationsafgange](http://www.dsb.dk/dsb-labs/webservice-stationsafgange/)
 - [Rejseplanen Labs](http://labs.rejseplanen.dk/)
 
 ## Pakkepost
@@ -55,6 +54,7 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 ## Medier
 - [DR API](http://www.dr.dk/mu-online/)
 - [TV2 Vejret API](http://vejret-api.tv2.dk)
+- [MeteoGroup Vejr API](http://www.meteogroup.com/da/dk/sektorer/medier/mobil/vejr-api.html)
 
 ## Statistiske data
 - [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
@@ -73,6 +73,9 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 - [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)
 - [Trustpilot](https://developers.trustpilot.com/)
 - [Mobilepay](http://www.danskebank.dk/da-dk/mobilepay/Pages/Developer.aspx)
+- [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - Information om politikere
+- [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)
+- [Lav Linket Kortere API](http://llk.dk/api)
 
 #### Kilder
 - [Åbne Offentlige Data Kilder](https://docs.google.com/document/d/1K6tA-vIhwffrZYqq9MJf4u6vm3QXQ1imLeVgehl2IU4/edit)
