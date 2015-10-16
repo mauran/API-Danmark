@@ -67,6 +67,11 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 	- [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
 	- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
 
+## Åbne datasæt fra en række danske kommuner
+- [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
+- [Københavns kommune data bank](http://data.kk.dk/)
+- [Københavns solutionlab](http://cphsolutionslab.dk/)
+
 ## Diverse
 - [Folketinget API](http://www.ft.dk/AabneData)
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
