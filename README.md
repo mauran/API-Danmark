@@ -67,6 +67,9 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 	- [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
 	- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
 
+## Betalingssystemer
+- [Clearhaus Transaction API](http://docs.gateway.clearhaus.com/)
+
 ## Åbne datasæt fra en række danske kommuner
 - [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
 - [Københavns kommune data bank](http://data.kk.dk/)
