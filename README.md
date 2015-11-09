@@ -23,7 +23,7 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
 ## Regnskabsprogrammer
-- [Billy](https://dev.billysbilling.dk/)
+- [Billy](https://www.billy.dk/api)
 - [e-conomic](https://www.e-conomic.dk/regnskabsprogram/moduler/api)
 - [Dinero](https://api.dinero.dk/docs)
 - [Debitoor](https://debitoor.dk/åben-api)
