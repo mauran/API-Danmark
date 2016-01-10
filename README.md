@@ -82,7 +82,6 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [eniro](https://api.eniro.com)
 - [System-til-system adgang til CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data)
 
----
 
 ## Diverse
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
