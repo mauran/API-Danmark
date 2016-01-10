@@ -1,18 +1,20 @@
 # API-Danmark
-Liste over danske API'er.
-Kender du et dansk API som ikke er på listen? Så send en pull request! 
+Afabetisk sorteret liste over danske API'er.  
+Kender du et dansk API som ikke er på listen? Så send et pull request! 
 
-## Virksomhedsdata
-- [System-til-system adgang til CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data)
-- [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)
-- [CVRAPI](http://cvrapi.dk)
-- [eniro API](http://api.eniro.com)
+---
 
-## Geografiske
-- [Danmarks Adressers Web API - DAWA](http://dawa.aws.dk/)
-- [Mastedatabasen](http://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
-- [Kortforsyningen](http://www.kortforsyningen.dk/content/webtjenester)
-- [Frekvenser](https://erhvervsstyrelsen.dk/offentligt-api)
+## Betalingsløsninger
+- [Clearhaus](http://docs.gateway.clearhaus.com/)
+- [ePay](http://tech.epay.dk/da/betalingswebservice)
+- [MobilePay](http://www.danskebank.dk/da-dk/mobilepay/Pages/Developer.aspx)
+- [Paylike](https://github.com/paylike/api-docs)
+- [QuickPay](http://tech.quickpay.net/api/)
+- [YourPay](http://api.yourpay.dk)
+
+## Detail & webshops
+- [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
+- [SAXO.com](http://api.saxo.com/)
 
 ## Historie
 - [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)
@@ -22,68 +24,71 @@ Kender du et dansk API som ikke er på listen? Så send en pull request!
 ## Hosting
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
+## Medier
+- [DR](http://www.dr.dk/mu-online/)
+- [MeteoGroup Vejr API](http://www.meteogroup.com/da/dk/sektorer/medier/mobil/vejr-api.html)
+- [TV2 Vejret API](https://vejret-api.tv2.dk)
+
+## Miljødata
+- Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
+    - [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
+    - [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
+
+## Offentlige
+- [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)
+- [Frekvenser](http://filer.erhvervsstyrelsen.dk/mikrofon-offentligt-api)
+- [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)
+- [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
+
+### Åbne datasæt fra en række danske kommuner
+- [Københavns kommune data bank](http://data.kk.dk/)
+- [Københavns solutionlab](http://cphsolutionslab.dk/)
+- [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
+
+## Pakkepost
+- [CoolRunner](http://docs.coolrunner.dk)
+- GLS
+    - [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
+    - [Parcel Processing](http://api.gls.dk/ws/)
+- [Pakkelabels.dk](https://api.pakkelabels.dk)
+- [PostNord Developer](https://developer.postnord.com)
+- [UPS](https://www.ups.com/content/dk/da/resources/sri/apidefinition.html)
+
 ## Regnskabsprogrammer
 - [Billy](https://www.billy.dk/api)
-- [e-conomic](https://www.e-conomic.dk/regnskabsprogram/moduler/api)
-- [Dinero](https://api.dinero.dk/docs)
 - [Debitoor](https://debitoor.dk/åben-api)
+- [Dinero](https://api.dinero.dk/docs)
+- [e-conomic](https://www.e-conomic.dk/tillaegsmoduler/api)
 
 ## Reklamer
 - [eTilbudsavis](http://docs.api.etilbudsavis.dk)
+
+## SMS Gateways
+- [Txty.dk](http://api.txty.dk/4/)
+
+## Statistiske data
+- DST API
+    - [Information om API](http://www.dst.dk/da/Statistik/statistikbanken/api)
+    - [Konsol](http://api.statbank.dk/console#subjects)
+- [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
 
 ## Transport
 - [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
 - [Rejseplanen Labs](http://labs.rejseplanen.dk/)
 
-## Pakkepost
-- [PostNord Developer](https://developer.postnord.com)
-- [Pakkelabels.dk](https://api.pakkelabels.dk)
-- [CoolRunner](http://docs.coolrunner.dk)
-- [UPS](http://www.ams1907.com/content/dk/da/resources/sri/apidefinition.html)
-- GLS
-	- [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
-	- [Parcel Processing](http://api.gls.dk/ws/)
+## Virksomhedsdata
+- [CVRAPI](http://cvrapi.dk)
+- [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)
+- [eniro](https://api.eniro.com)
+- [System-til-system adgang til CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data)
 
-## SMS Gateways
-- [Txty.dk](http://api.txty.dk/4/)
-
-## Detail & webshops
-- [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
-- [SAXO.com](http://api.saxo.com/)
-
-## Medier
-- [DR API](http://www.dr.dk/mu-online/)
-- [TV2 Vejret API](http://vejret-api.tv2.dk)
-- [MeteoGroup Vejr API](http://www.meteogroup.com/da/dk/sektorer/medier/mobil/vejr-api.html)
-
-## Statistiske data
-- [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
-- DST API
-	- [Information om API](http://www.dst.dk/da/Statistik/statistikbanken/api)
-	- [Konsol](http://api.statbank.dk/console#subjects)
-
-## Miljødata
-- Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
-	- [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
-	- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
-
-## Betalingssystemer
-- [Clearhaus Transaction API](http://docs.gateway.clearhaus.com/)
-
-## Åbne datasæt fra en række danske kommuner
-- [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
-- [Københavns kommune data bank](http://data.kk.dk/)
-- [Københavns solutionlab](http://cphsolutionslab.dk/)
+---
 
 ## Diverse
-- [Folketinget API](http://www.ft.dk/AabneData)
 - [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
 - [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)
-- [Trustpilot](https://developers.trustpilot.com/)
-- [Mobilepay](http://www.danskebank.dk/da-dk/mobilepay/Pages/Developer.aspx)
-- [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - Information om politikere
+- [Folketinget](http://www.ft.dk/AabneData)
+- [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)
+- [Lav Linket Korteres](http://llk.dk/api)
 - [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)
-- [Lav Linket Kortere API](http://llk.dk/api)
-
-#### Kilder
-- [Åbne Offentlige Data Kilder](https://docs.google.com/document/d/1K6tA-vIhwffrZYqq9MJf4u6vm3QXQ1imLeVgehl2IU4/edit)
+- [Trustpilot](https://developers.trustpilot.com/)
