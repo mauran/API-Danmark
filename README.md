@@ -88,6 +88,6 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)
 - [Folketinget](http://www.ft.dk/AabneData)
 - [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)
-- [Lav Linket Korteres](http://llk.dk/api)
+- [Lav Linket Kortere](http://llk.dk/api)
 - [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)
 - [Trustpilot](https://developers.trustpilot.com/)
