@@ -59,6 +59,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Debitoor](https://debitoor.dk/åben-api)
 - [Dinero](https://api.dinero.dk/docs)
 - [e-conomic](https://www.e-conomic.dk/tillaegsmoduler/api)
+- [DynAccount](https://dynaccount.dk/funktioner/api-integration/)
 
 ## Reklamer
 - [eTilbudsavis](http://docs.api.etilbudsavis.dk)
