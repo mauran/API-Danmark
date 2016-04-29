@@ -13,8 +13,11 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [YourPay](http://api.yourpay.dk)
 
 ## Detail & webshops
+- [CoolRunner](https://docs.coolrunner.dk/)
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
 - [SAXO.com](http://api.saxo.com/)
+- [Scannet](http://www.scannet.dk/webshop/integration/integration-med-api/)
+
 
 ## Historie
 - [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)
