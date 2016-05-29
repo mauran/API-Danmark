@@ -49,6 +49,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
 
 ## Pakkepost
+- [Bring Developer](http://developer.bring.com)
 - [CoolRunner](http://docs.coolrunner.dk)
 - GLS
     - [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
@@ -56,6 +57,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Pakkelabels.dk](https://api.pakkelabels.dk)
 - [PostNord Developer](https://developer.postnord.com)
 - [UPS](https://www.ups.com/content/dk/da/resources/sri/apidefinition.html)
+- [Webshipr](http://docs.webshipr.apiary.io)
 
 ## Regnskabsprogrammer
 - [Billy](https://www.billy.dk/api)
