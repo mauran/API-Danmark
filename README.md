@@ -78,6 +78,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 
 ## Transport
 - [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
+- [GoMore](http://developer.gomore.com/)
 - [Rejseplanen Labs](http://labs.rejseplanen.dk/)
 
 ## Virksomhedsdata
