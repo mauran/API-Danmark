@@ -71,6 +71,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 
 ## SMS Gateways
 - [Txty.dk](http://api.txty.dk/4/)
+- [Messagebird](https://www.messagebird.com/da-dk/sms-gateway)
 
 ## Statistiske data
 - DST API
