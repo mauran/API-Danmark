@@ -65,6 +65,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Dinero](https://api.dinero.dk/docs)
 - [e-conomic](https://www.e-conomic.dk/tillaegsmoduler/api)
 - [DynAccount](https://dynaccount.dk/funktioner/api-integration/)
+- [Uniconta](http://www.uniconta.com/da/uniconta-api/)
 
 ## Reklamer
 - [eTilbudsavis](http://docs.api.etilbudsavis.dk)
