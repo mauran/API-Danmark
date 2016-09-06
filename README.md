@@ -83,6 +83,9 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
     - [Konsol](http://api.statbank.dk/console#subjects)
 - [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
 
+## Telefoni
+- [Firmafon](https://dev.firmafon.dk/)
+
 ## Transport
 - [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
 - [GoMore](http://developer.gomore.com/)
