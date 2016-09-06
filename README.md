@@ -27,6 +27,9 @@ Kender du et dansk API som ikke er på listen? Så send et pull request!
 - [Scannet](http://www.scannet.dk/webshop/integration/integration-med-api/)
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
+## Inkasso
+- [Debito](https://www.debito.dk/api)
+
 ## Medier
 - [DR](http://www.dr.dk/mu-online/)
 - [MeteoGroup Vejr API](http://www.meteogroup.com/da/dk/sektorer/medier/mobil/vejr-api.html)
