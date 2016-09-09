@@ -1,6 +1,6 @@
 # API-Danmark
 Afabetisk sorteret liste over danske API'er.  
-Kender du et dansk API som ikke er på listen? Så send et pull request! 
+Kender du et dansk API som ikke er på listen? Så send et pull request eller opret et issue! 
 
 ---
 
