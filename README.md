@@ -13,6 +13,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [QuickPay](http://tech.quickpay.net/api/)
 - [YourPay](http://api.yourpay.dk)
 - [Wannafind](https://static.zitcom.dk/marketing/wannafind/paymentgateway_documentation.pdf)
+- [DIBS](http://tech.dibspayment.com/D2/API)
 
 ## Detail & webshops
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
