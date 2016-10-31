@@ -106,3 +106,4 @@ Kender du et dansk API som ikke er på listen? Så send et pull request eller op
 - [Lav Linket Kortere](http://llk.dk/api)
 - [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)
 - [Trustpilot](https://developers.trustpilot.com/)
+- [TimeLog](http://api.timelog.com/)
