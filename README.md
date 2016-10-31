@@ -1,6 +1,7 @@
-# API-Danmark
-Afabetisk sorteret liste over danske API'er.  
-Kender du et dansk API som ikke er på listen? Så send et pull request eller opret et issue! 
+# API Danmark
+Afabetisk sorteret liste over danske API'er.
+
+Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret en issue! 
 
 ---
 
@@ -78,7 +79,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request eller op
 - [Txty.dk](http://api.txty.dk/4/)
 - [Messagebird](https://www.messagebird.com/da-dk/sms-gateway)
 
-## Statistiske data
+## Statistisk
 - DST API
     - [Information om API](http://www.dst.dk/da/Statistik/statistikbanken/api)
     - [Konsol](http://api.statbank.dk/console#subjects)
@@ -86,6 +87,7 @@ Kender du et dansk API som ikke er på listen? Så send et pull request eller op
 
 ## Telefoni
 - [Firmafon](https://dev.firmafon.dk/)
+- [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)
 
 ## Transport
 - [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
