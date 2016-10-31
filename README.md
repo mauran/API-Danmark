@@ -1,8 +1,6 @@
 # API Danmark
-Afabetisk sorteret liste over danske API'er.
 
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret en issue! 
-
 ---
 
 ## Betalingsløsninger
