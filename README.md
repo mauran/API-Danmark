@@ -44,6 +44,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [Frekvenser](http://filer.erhvervsstyrelsen.dk/mikrofon-offentligt-api)
 - [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)
 - [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
+- [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)
 
 ### Åbne datasæt fra en række danske kommuner
 - [Københavns kommune data bank](http://data.kk.dk/)
