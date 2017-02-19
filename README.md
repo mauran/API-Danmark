@@ -74,6 +74,8 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 ## SMS Gateways
 - [Txty.dk](http://api.txty.dk/4/)
+- [SMS1919.dk](http://www.sms1919.dk/api/)
+- [GatewayAPI.com](https://gatewayapi.com/docs/)
 
 ## Statistisk
 - DST API
