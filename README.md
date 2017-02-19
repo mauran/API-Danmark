@@ -64,7 +64,6 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 ## Regnskabsprogrammer
 - [Billy](https://www.billy.dk/api)
-- [Debitoor](https://debitoor.dk/åben-api)
 - [Dinero](https://api.dinero.dk/docs)
 - [e-conomic](https://www.e-conomic.dk/tillaegsmoduler/api)
 - [DynAccount](https://dynaccount.dk/funktioner/api-integration/)
