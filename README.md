@@ -60,6 +60,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [Pakkelabels.dk](https://api.pakkelabels.dk)
 - [PostNord Developer](https://developer.postnord.com)
 - [UPS](https://www.ups.com/content/dk/da/resources/sri/apidefinition.html)
+- [Unifaun](https://www.unifaunonline.se/rs-docs/)
 - [Webshipr](http://docs.webshipr.apiary.io)
 
 ## Regnskabsprogrammer
