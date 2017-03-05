@@ -4,9 +4,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 ## Betalingsløsninger
 - [Clearhaus](http://docs.gateway.clearhaus.com/)
 - [ePay](http://tech.epay.dk/da/betalingswebservice)
-- [MobilePay](http://www.danskebank.dk/da-dk/mobilepay/Pages/Developer.aspx)
+- [MobilePay](https://www.mobilepay.dk/da-dk/Developer/Pages/developer.aspx)
 - [Paylike](https://github.com/paylike/api-docs)
-- [QuickPay](http://tech.quickpay.net/api/)
+- [QuickPay](https://learn.quickpay.net/tech-talk/api)
 - [YourPay](http://api.yourpay.dk)
 - [Wannafind](https://static.zitcom.dk/marketing/wannafind/paymentgateway_documentation.pdf)
 - [DIBS](http://tech.dibspayment.com/D2/API)
@@ -22,7 +22,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 ## Historie
 - [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)
 - [Historisk Atlas](http://blog.historiskatlas.dk/api/)
-- [M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)
+- ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~
 
 ## Hosting
 - [HostedShop (Wannafind)](http://api-help.hostedshop.dk)
@@ -40,11 +40,11 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 ## Miljødata
 - Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
     - [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
-    - [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)
+    ~~- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~
 
 ## Offentlige
 - [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)
-- [Frekvenser](http://filer.erhvervsstyrelsen.dk/mikrofon-offentligt-api)
+- ~~[Frekvenser](http://filer.erhvervsstyrelsen.dk/mikrofon-offentligt-api)~~
 - [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)
 - [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
 - [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)
@@ -52,11 +52,11 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 ### Åbne datasæt fra en række danske kommuner
 - [Københavns kommune data bank](http://data.kk.dk/)
 - [Københavns solutionlab](http://cphsolutionslab.dk/)
-- [Åbne data fra Aarhus kommune](http://www.odaa.dk/)
+- [Åbne data fra Aarhus kommune](https://www.odaa.dk)
 
 ## Pakkepost
 - [Bring Developer](http://developer.bring.com)
-- [CoolRunner](http://docs.coolrunner.dk)
+- [CoolRunner](https://docs.coolrunner.dk)
 - GLS
     - [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
     - [Parcel Processing](http://api.gls.dk/ws/)
@@ -92,7 +92,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)
 
 ## Transport
-- [DSB feeds](http://www.dsb.dk/dsb-labs/feeds/)
+- [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)
 - [GoMore](http://developer.gomore.com/)
 - [Rejseplanen Labs](http://labs.rejseplanen.dk/)
 
