@@ -25,8 +25,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~
 
 ## Hosting
-- [HostedShop (Wannafind)](http://api-help.hostedshop.dk)
-- [Scannet](http://www.scannet.dk/webshop/integration/integration-med-api/)
+- [HostedShop (Wannafind & Scannet)](http://api-help.hostedshop.dk)
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
 ## Inkasso
@@ -54,7 +53,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [Københavns solutionlab](http://cphsolutionslab.dk/)
 - [Åbne data fra Aarhus kommune](https://www.odaa.dk)
 
-## Pakkepost
+## Pakker & logistisk
 - [Bring Developer](http://developer.bring.com)
 - [CoolRunner](https://docs.coolrunner.dk)
 - GLS
