@@ -40,7 +40,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 ## Miljødata
 - Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
     - [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
-    ~~- [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~
+    - ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~
 
 ## Offentlige
 - [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)
