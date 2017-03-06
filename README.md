@@ -44,7 +44,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 ## Offentlige
 - [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)
-- ~~[Frekvenser](http://filer.erhvervsstyrelsen.dk/mikrofon-offentligt-api)~~
+- [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)
 - [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)
 - [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
 - [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)
