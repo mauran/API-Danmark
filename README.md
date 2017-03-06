@@ -13,6 +13,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [Reepay](https://docs.reepay.com/api/)
 - [AltaPay](https://altapay.com/technology/integration-manuals#download)
 - [Scanpay](https://docs.scanpay.dk)
+- [Nets Netaxept](https://shop.nets.eu/da/web/partners)
 
 ## Detail & webshops
 - [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
@@ -25,7 +26,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~
 
 ## Hosting
-- [HostedShop (Wannafind & Scannet)](http://api-help.hostedshop.dk)
+- [HostedShop](http://api-help.hostedshop.dk) (Wannafind & Scannet)
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
 ## Inkasso
