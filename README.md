@@ -26,7 +26,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~
 
 ## Hosting
-- [HostedShop](http://api-help.hostedshop.dk) (Wannafind & Scannet)
+- [HostedShop](http://api-help.hostedshop.dk) (Wannafind & ScanNet)
 - [UnoEuro](https://www.unoeuro.com/docs/api.php)
 
 ## Inkasso
