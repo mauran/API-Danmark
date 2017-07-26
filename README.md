@@ -36,6 +36,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 - [DR](http://www.dr.dk/mu-online/)
 - [MeteoGroup Vejr API](http://www.meteogroup.com/da/dk/sektorer/medier/mobil/vejr-api.html)
 - [TV2 Vejret API](https://vejret-api.tv2.dk)
+- [Vejret i din by](http://vejr.eu/pages/api-documentation)
 
 ## Miljødata
 - Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
