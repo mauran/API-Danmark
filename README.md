@@ -44,12 +44,6 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [UnoEuro](https://www.unoeuro.com/docs/api.php)                                                                | JSON | Private |
 
 
-## Inkasso
-
-| API                                                                                                            | Type | Tilgængelighed |
-| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Debito](https://www.debito.dk/api)                                                                            | ? | ? |
-
 ## Medier
 
 | API                                                                                                            | Type | Tilgængelighed |
@@ -63,8 +57,8 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Ressource](http://arealinformation.miljoeportal.dk/distribution/)                                             | ? | ? |
-| ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~              | ? | ? |
+| [Ressource](http://www.miljoeportal.dk/digital/Sider/forside.aspx)                                             | Webservice | Public |
+| ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~              | Webservice | Public |
 
 
 ## Offentlige
@@ -110,7 +104,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Dinero](https://api.dinero.dk/docs)                                                                           | JSON | Private |
 | [e-conomic](https://restdocs.e-conomic.com)                                                                    | JSON | Private |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                                | JSON | Private |
-| [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                           | ? | Private |
+| [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                           | .NET | Private |
 | [Visma](https://developer.vismaonline.com/)                                                                    | JSON | Private |
 
 ## Reklamer
