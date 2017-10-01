@@ -107,6 +107,12 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                           | .NET | Private |
 | [Visma](https://developer.vismaonline.com/)                                                                    | JSON | Private |
 
+## Lønsystemer
+
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Zenegy](https://zenegy.com/api-og-dokumentation/)                                                             | JSON | Private |
+
 ## Reklamer
 
 | API                                                                                                            | Type | Tilgængelighed |
