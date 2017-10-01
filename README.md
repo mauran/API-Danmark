@@ -164,12 +164,15 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 
 ## Diverse
-- [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)
-- [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)
-- [Folketinget](http://www.ft.dk/AabneData)
-- [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)
-- [Lav Linket Kortere](http://llk.dk/api)
-- [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)
-- [Trustpilot](https://developers.trustpilot.com/)
-- [TimeLog](http://api.timelog.com/)
-- [Ordrestyring.dk](https://api.ordrestyring.dk)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)  | XML | ✅ | ✅ |
+| [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)                                                | XML | ✅ | ✅ |
+| [Folketinget](http://www.ft.dk/AabneData)                                                                 | JSON/XML | ✅ | ✅ |
+| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                  | XML | ✅ | ✅ |
+| ~~[Lav Linket Kortere](http://llk.dk/api)~~                                                               | RAW/HTTP | ✅ | ✅ |
+| [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                 | JSON | ✅ | ✅ |
+| [Trustpilot](https://developers.trustpilot.com/)                                                          | JSON | ✅ | ❌ |
+| [TimeLog](http://api.timelog.com/)                                                                        | XML | ✅ | ✅ |
+| [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                           | JSON | ✅ | ❌ |
