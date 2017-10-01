@@ -91,91 +91,91 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Bring Developer](http://developer.bring.com)                                                             | JSON/XML/SOAP | Public |
-| [CoolRunner](https://docs.coolrunner.dk)                                                                  | JSON | Private |
-| [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)                                   | SOAP | Public |
-| [GLS Parcel Processing](http://api.gls.dk/ws/)                                                            | JSON/XML | Private |
-| [Pakkelabels.dk](https://api.pakkelabels.dk)                                                              | JSON | Private |
-| [PostNord Developer](https://developer.postnord.com)                                                      | JSON | Private |
-| [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                                                      | JSON/XML/Webservice | Private |
-| [Unifaun](https://www.unifaunonline.se/rs-docs/)                                                          | JSON | Private |
-| [Webshipr](http://docs.webshipr.apiary.io)                                                                | JSON | Private |
+| [Bring Developer](http://developer.bring.com)                                                                 | JSON/XML/SOAP | Public |
+| [CoolRunner](https://docs.coolrunner.dk)                                                                       | JSON | Private |
+| [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)                                        | SOAP | Public |
+| [GLS Parcel Processing](http://api.gls.dk/ws/)                                                                 | JSON/XML | Private |
+| [Pakkelabels.dk](https://api.pakkelabels.dk)                                                                   | JSON | Private |
+| [PostNord Developer](https://developer.postnord.com)                                                           | JSON | Private |
+| [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                                                   | JSON/XML/Webservice | Private |
+| [Unifaun](https://www.unifaunonline.se/rs-docs/)                                                               | JSON | Private |
+| [Webshipr](http://docs.webshipr.apiary.io)                                                                     | JSON | Private |
 
 
 ## Regnskabsprogrammer
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Billy](https://www.billy.dk/api)                                                                         | JSON | Private |
-| [Dinero](https://api.dinero.dk/docs)                                                                      | JSON | Private |
-| [e-conomic](https://restdocs.e-conomic.com)                                                               | JSON | Private |
-| [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                           | JSON | Private |
-| [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                      | ? | Private |
-| [Visma](https://developer.vismaonline.com/)                                                               | JSON | Private |
+| [Billy](https://www.billy.dk/api)                                                                              | JSON | Private |
+| [Dinero](https://api.dinero.dk/docs)                                                                           | JSON | Private |
+| [e-conomic](https://restdocs.e-conomic.com)                                                                    | JSON | Private |
+| [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                                | JSON | Private |
+| [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                           | ? | Private |
+| [Visma](https://developer.vismaonline.com/)                                                                    | JSON | Private |
 
 ## Reklamer
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [eTilbudsavis](http://docs.api.etilbudsavis.dk)                                                           | JSON | Private |
+| [eTilbudsavis](http://docs.api.etilbudsavis.dk)                                                                | JSON | Private |
 
 
 ## SMS Gateways
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Txty.dk](http://api.txty.dk/4/)                                                                          | JSON | Private |
-| [SMS1919.dk](http://www.sms1919.dk/api/)                                                                  | XML | Private |
-| [GatewayAPI.com](https://gatewayapi.com/docs/)                                                            | JSON/SOAP | Private |
+| [Txty.dk](http://api.txty.dk/4/)                                                                               | JSON | Private |
+| [SMS1919.dk](http://www.sms1919.dk/api/)                                                                       | XML | Private |
+| [GatewayAPI.com](https://gatewayapi.com/docs/)                                                                 | JSON/SOAP | Private |
 
 
 ## Statistisk
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Danmarks Statistik](http://www.dst.dk/da/Statistik/statistikbanken/api)                                  | JSON/XML | Public |
+| [Danmarks Statistik](http://www.dst.dk/da/Statistik/statistikbanken/api)                                       | JSON/XML | Public |
 
 
 ## Telefoni
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Firmafon](https://dev.firmafon.dk/)                                                                      | JSON | Private |
-| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                         | JSON/XML | Private |
+| [Firmafon](https://dev.firmafon.dk/)                                                                           | JSON | Private |
+| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                              | JSON/XML | Private |
 
 
 ## Transport
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                                                            | RSS | Public |
-| [GoMore](http://developer.gomore.com/)                                                                    | JSON | Private |
-| [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005)                                | JSON/XML | Private |
+| [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                                                                 | RSS | Public |
+| [GoMore](http://developer.gomore.com/)                                                                         | JSON | Private |
+| [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005)                                     | JSON/XML | Private |
 
 
 ## Virksomhedsdata
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [CVRAPI](http://cvrapi.dk)                                                                                | JSON | Public |
-| [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)          | JSON | Public |
-| [CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data).     | JSON | Public |
-| [eniro](https://api.eniro.com)                                                                            | JSON | Private |
+| [CVRAPI](http://cvrapi.dk)                                                                                     | JSON | Public |
+| [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)               | JSON | Public |
+| [CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data).          | JSON | Public |
+| [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
 
 
 ## Diverse
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)  | XML | Public |
-| [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)                                                | XML | Public |
-| [Folketinget](http://www.ft.dk/AabneData)                                                                 | JSON/XML | Public |
-| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                  | XML | Public |
-| ~~[Lav Linket Kortere](http://llk.dk/api)~~                                                               | RAW/HTTP | Public |
-| [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                 | JSON | Public |
-| [Trustpilot](https://developers.trustpilot.com/)                                                          | JSON | Private |
-| [TimeLog](http://api.timelog.com/)                                                                        | XML | Public |
-| [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                           | JSON | Private |
+| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | XML | Public |
+| [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)                                                     | XML | Public |
+| [Folketinget](http://www.ft.dk/AabneData)                                                                      | JSON/XML | Public |
+| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
+| ~~[Lav Linket Kortere](http://llk.dk/api)~~                                                                    | RAW/HTTP | Public |
+| [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                      | JSON | Public |
+| [Trustpilot](https://developers.trustpilot.com/)                                                               | JSON | Private |
+| [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
+| [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                                | JSON | Private |
 
 
 ## Information
