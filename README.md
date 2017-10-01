@@ -103,29 +103,46 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 
 ## Regnskabsprogrammer
-- [Billy](https://www.billy.dk/api)
-- [Dinero](https://api.dinero.dk/docs)
-- [e-conomic](https://www.e-conomic.dk/tillaegsmoduler/api)
-- [DynAccount](https://dynaccount.dk/funktioner/api-integration/)
-- [Uniconta](http://www.uniconta.com/da/uniconta-api/)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Billy](https://www.billy.dk/api)                                                                         | JSON | ✅ | ❌ |
+| [Dinero](https://api.dinero.dk/docs)                                                                      | JSON | ✅ | ❌ |
+| [e-conomic](https://restdocs.e-conomic.com)                                                               | JSON | ✅ | ❌ |
+| [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                           | JSON | ✅ | ❌ |
+| [Uniconta](http://www.uniconta.com/da/uniconta-api/)                                                      | ? | ✅ | ❌ |
+| [Visma](https://developer.vismaonline.com/)                                                               | JSON | ✅ | ❌ |
 
 ## Reklamer
-- [eTilbudsavis](http://docs.api.etilbudsavis.dk)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [eTilbudsavis](http://docs.api.etilbudsavis.dk)                                                           | JSON | ✅ | ❌ |
+
 
 ## SMS Gateways
-- [Txty.dk](http://api.txty.dk/4/)
-- [SMS1919.dk](http://www.sms1919.dk/api/)
-- [GatewayAPI.com](https://gatewayapi.com/docs/)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Txty.dk](http://api.txty.dk/4/)                                                                          | JSON | ✅ | ❌ |
+| [SMS1919.dk](http://www.sms1919.dk/api/)                                                                  | XML | ✅ | ❌ |
+| [GatewayAPI.com](https://gatewayapi.com/docs/)                                                            | JSON/SOAP | ✅ | ❌ |
+
 
 ## Statistisk
-- DST API
-    - [Information om API](http://www.dst.dk/da/Statistik/statistikbanken/api)
-    - [Konsol](http://api.statbank.dk/console#subjects)
-- [Statistikbanken](http://www.dst.dk/da/Statistik/statistikbanken.aspx)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Danmarks Statistik](http://www.dst.dk/da/Statistik/statistikbanken/api)                                  | JSON/XML | ✅ | ✅ |
+
 
 ## Telefoni
-- [Firmafon](https://dev.firmafon.dk/)
-- [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Firmafon](https://dev.firmafon.dk/)                                                                      | JSON | ✅ | ❌ |
+| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                         | JSON/XML | ✅ | ❌ |
+
 
 ## Transport
 - [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)
