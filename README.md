@@ -2,69 +2,105 @@
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret en issue! 
 
 ## Betalingsløsninger
-- [Clearhaus](http://docs.gateway.clearhaus.com/)
-- [ePay](http://tech.epay.dk/da/betalingswebservice)
-- [MobilePay](https://www.mobilepay.dk/da-dk/Developer/Pages/developer.aspx)
-- [Paylike](https://github.com/paylike/api-docs)
-- [QuickPay](https://learn.quickpay.net/tech-talk/api)
-- [YourPay](http://api.yourpay.dk)
-- [Wannafind](https://static.zitcom.dk/marketing/wannafind/paymentgateway_documentation.pdf)
-- [DIBS](http://tech.dibspayment.com/D2/API)
-- [Reepay](https://docs.reepay.com/api/)
-- [AltaPay](https://altapay.com/technology/integration-manuals#download)
-- [Scanpay](https://docs.scanpay.dk)
-- [Nets Netaxept](https://shop.nets.eu/da/web/partners)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Clearhaus](http://docs.gateway.clearhaus.com/)                                                           | JSON | ✅ | ❌ |
+| [ePay](http://tech.epay.dk/da/betalingswebservice)                                                        | JSON | ✅ | ❌ |
+| [MobilePay](https://www.mobilepay.dk/da-dk/Developer/Pages/developer.aspx)                                | JSON | ✅❌ | ✅ |
+| [Paylike](https://github.com/paylike/api-docs)                                                            | JSON | ✅ | ❌ |
+| [QuickPay](https://quickpay.net/quickpayapi)                                                              | JSON | ✅ | ❌ |
+| [YourPay](http://api.yourpay.dk)                                                                          | JSON | ✅ | ❌ |
+| [Wannafind](https://static.zitcom.dk/marketing/wannafind/paymentgateway_documentation.pdf)                | HTML/Form | ✅ | ❌ |
+| [DIBS](http://tech.dibspayment.com/D2/API)                                                                | JSON | ✅ | ❌ |
+| [Reepay](https://docs.reepay.com/api/)                                                                    | JSON | ✅ | ❌ |
+| [AltaPay](https://altapay.com/technology/integration-manuals#download)                                    | JSON | ✅ | ❌ |
+| [Scanpay](https://docs.scanpay.dk)                                                                        | JSON | ✅ | ❌ |
+| [Nets Netaxept](https://shop.nets.eu/da/web/partners)                                                     | XML | ✅ | ❌ |
+
 
 ## Detail & webshops
-- [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)
-- [SAXO.com](http://api.saxo.com/)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Dansk Supermarked](https://developer.dansksupermarked.dk/v1/api/reference/overview/)                     | JSON | ✅ | ❌ |
+| [SAXO.com](http://api.saxo.com/)                                                                          | XML | ✅ | ❌ |
 
 
 ## Historie
-- [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)
-- [Historisk Atlas](http://blog.historiskatlas.dk/api/)
-- ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)                                                     | XML | ✅ | ❌ |
+| [Historisk Atlas](http://api.historiskatlas.dk/)                                                          | JSON | ✅ | ✅ |
+| ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~                                   | JSON | ? | ? |
+
 
 ## Hosting
-- [HostedShop](http://api-help.hostedshop.dk) (Wannafind & ScanNet)
-- [UnoEuro](https://www.unoeuro.com/docs/api.php)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [HostedShop](http://api-help.hostedshop.dk) (Wannafind & ScanNet)                                         | SOAP | ✅ | ❌ |
+| [UnoEuro](https://www.unoeuro.com/docs/api.php)                                                           | JSON | ✅ | ❌ |
+
 
 ## Inkasso
-- [Debito](https://www.debito.dk/api)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Debito](https://www.debito.dk/api)                                                                       | ? | ? | ? |
 
 ## Medier
-- [DR](http://www.dr.dk/mu-online/)
-- [TV2 Vejret API](https://vejret-api.tv2.dk) (Private API)
-- [Vejret i din by](http://vejr.eu/pages/api-documentation)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [DR](http://www.dr.dk/mu-online/)                                                                         | JSON | ✅ | ✅ |
+| [TV2 Vejret API](https://vejret-api.tv2.dk) (Private API)                                                 | JSON/XML | ✅ | ❌ |
+| [Vejret i din by](http://vejr.eu/pages/api-documentation)                                                 | JSON | ✅ | ✅ |
+
 
 ## Miljødata
-- Danmarks miljøportal kortviewer, her kan du se hvilke data, der er tilgængelige.
-    - [Ressource](http://arealinformation.miljoeportal.dk/distribution/)
-    - ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Ressource](http://arealinformation.miljoeportal.dk/distribution/)                                        | ? | ? | ? |
+| ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~         | ? | ? | ? |
+
 
 ## Offentlige
-- [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)
-- [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)
-- [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)
-- [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)
-- [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                 | JSON | ✅ | ✅ |
+| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                      | JSON | ✅ | ✅ |
+| [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | ✅ | ✅ |
+| [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                    | JSON/XML | ✅ | ❌ |
+| [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)                          | HTML | ✅ | ✅ |
+
 
 ### Åbne datasæt fra en række danske kommuner
-- [Københavns kommune data bank](http://data.kk.dk/)
-- [Københavns solutionlab](http://cphsolutionslab.dk/)
-- [Åbne data fra Aarhus kommune](https://www.odaa.dk)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Københavns kommune data bank](http://data.kk.dk/)                                                        | Forskelligt | ✅ | ✅ |
+| [Københavns solutionlab](http://portal.opendata.dk)                                                       | Forskelligt | ✅ | ✅ |
+| [Åbne data fra Aarhus kommune](https://www.odaa.dk)                                                       | Forskelligt | ✅ | ✅ |
+
 
 ## Pakker & logistisk
-- [Bring Developer](http://developer.bring.com)
-- [CoolRunner](https://docs.coolrunner.dk)
-- GLS
-    - [Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)
-    - [Parcel Processing](http://api.gls.dk/ws/)
-- [Pakkelabels.dk](https://api.pakkelabels.dk)
-- [PostNord Developer](https://developer.postnord.com)
-- [UPS](https://www.ups.com/content/dk/da/resources/sri/apidefinition.html)
-- [Unifaun](https://www.unifaunonline.se/rs-docs/)
-- [Webshipr](http://docs.webshipr.apiary.io)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [Bring Developer](http://developer.bring.com)                                                             | JSON/XML/SOAP | ✅ | ✅❌ |
+| [CoolRunner](https://docs.coolrunner.dk)                                                                  | JSON | ✅ | ❌ |
+| [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)                                   | SOAP | ✅ | ✅ |
+| [GLS Parcel Processing](http://api.gls.dk/ws/)                                                            | JSON/XML | ✅ | ❌ |
+| [Pakkelabels.dk](https://api.pakkelabels.dk)                                                              | JSON | ✅ | ❌ |
+| [PostNord Developer](https://developer.postnord.com)                                                      | JSON | ✅ | ❌ |
+| [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                                                      | JSON/XML/Webservice | ✅ | ❌ |
+| [Unifaun](https://www.unifaunonline.se/rs-docs/)                                                          | JSON | ✅ | ❌ |
+| [Webshipr](http://docs.webshipr.apiary.io)                                                                | JSON | ✅ | ❌ |
+
 
 ## Regnskabsprogrammer
 - [Billy](https://www.billy.dk/api)
