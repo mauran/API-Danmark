@@ -145,15 +145,22 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 
 ## Transport
-- [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)
-- [GoMore](http://developer.gomore.com/)
-- [Rejseplanen Labs](http://labs.rejseplanen.dk/)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                                                            | RSS | ✅ | ✅ |
+| [GoMore](http://developer.gomore.com/)                                                                    | JSON | ✅ | ❌ |
+| [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005)                                | JSON/XML | ✅ | ❌ |
+
 
 ## Virksomhedsdata
-- [CVRAPI](http://cvrapi.dk)
-- [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)
-- [eniro](https://api.eniro.com)
-- [System-til-system adgang til CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data)
+
+| API                                                                                                       | Type | Gratis | Uden login |
+| --------------------------------------------------------------------------------------------------------- |:----:| :-----:| :--------: |
+| [CVRAPI](http://cvrapi.dk)                                                                                | JSON | ✅ | ✅ |
+| [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)          | JSON | ✅ | ✅ |
+| [CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data).     | JSON | ✅ | ✅ |
+| [eniro](https://api.eniro.com)                                                                            | JSON | ✅ | ❌ |
 
 
 ## Diverse
