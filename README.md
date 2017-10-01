@@ -128,6 +128,13 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [SMS1919.dk](http://www.sms1919.dk/api/)                                                                       | XML | Private |
 | [GatewayAPI.com](https://gatewayapi.com/docs/)                                                                 | JSON/SOAP | Private |
 
+## E-mail marketing
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Heyloyalty](https://support.heyloyalty.com/hc/en-us/articles/115001593169-3-8-API)                            | JSON | Private |
+| [Ubivox](https://support.ubivox.dk/artikler/introduktion-til-integration-i-ubivox/)                            | Forskellige | Private |
+| [Bullsender](https://api.bullsender.com)                                                                		 | JSON | Private |
+| [eMailPlatform](http://mailmailmail.net/xmlguide/)                                                             | XML | Private |
 
 ## Statistisk
 
