@@ -1,5 +1,5 @@
 # API Danmark
-Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret en issue! 
+Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue! 
 
 ## Betalingsløsninger
 
