@@ -11,7 +11,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Paylike](https://github.com/paylike/api-docs)                                                                 | JSON | Private |
 | [QuickPay](https://quickpay.net/quickpayapi)                                                                   | JSON | Private |
 | [YourPay](http://api.yourpay.dk)                                                                               | JSON | Private |
-| [Wannafind](https://static.zitcom.dk/marketing/wannafind/paymentgateway_documentation.pdf)                     | HTML/Form | Private |
+| [OnPay](https://manage.onpay.io/docs/)                                                                         | JSON | Private |
 | [DIBS](http://tech.dibspayment.com/D2/API)                                                                     | JSON | Private |
 | [Reepay](https://docs.reepay.com/api/)                                                                         | JSON | Private |
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)                                         | JSON | Private |
@@ -40,8 +40,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [HostedShop](http://api-help.hostedshop.dk) (Wannafind & ScanNet)                                              | SOAP | Private |
+| [HostedShop](http://api-help.hostedshop.dk) (Wannafind, Curanet & ScanNet)                                     | SOAP | Private |
 | [UnoEuro](https://www.unoeuro.com/docs/api.php)                                                                | JSON | Private |
+| [Cloud.dk](https://docs.cloud.dkp)                                                                             | JSON | Private |
 
 
 ## Medier
