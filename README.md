@@ -7,7 +7,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Clearhaus](http://docs.gateway.clearhaus.com/)                                                                | JSON | Private |
 | [ePay](http://tech.epay.dk/da/betalingswebservice)                                                             | JSON | Private |
-| [MobilePay](https://www.mobilepay.dk/da-dk/Developer/Pages/developer.aspx)                                     | JSON | Public |
+| [MobilePay](https://developer.mobilepay.dk)                                                                    | JSON | Public |
 | [Paylike](https://github.com/paylike/api-docs)                                                                 | JSON | Private |
 | [QuickPay](https://quickpay.net/quickpayapi)                                                                   | JSON | Private |
 | [YourPay](http://api.yourpay.dk)                                                                               | JSON | Private |
@@ -128,6 +128,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Txty.dk](http://api.txty.dk/4/)                                                                               | JSON | Private |
 | [SMS1919.dk](http://www.sms1919.dk/api/)                                                                       | XML | Private |
 | [GatewayAPI.com](https://gatewayapi.com/docs/)                                                                 | JSON/SOAP | Private |
+| [CPSMS.dk](https://api.cpsms.dk/documentation/)                                                                | JSON | Private |
 
 ## E-mail marketing
 | API                                                                                                            | Type | Tilgængelighed |
