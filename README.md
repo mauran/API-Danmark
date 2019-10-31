@@ -187,6 +187,12 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
 | [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                                | JSON | Private |
 
+## Finans
+
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Saxobank OpenAPI](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | JSON | Private |
+
 
 ## Information
 
