@@ -191,7 +191,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Saxobank OpenAPI](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | JSON | Private |
+| [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)       | JSON | Private |
 
 
 ## Information
