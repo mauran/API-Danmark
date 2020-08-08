@@ -186,6 +186,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Trustpilot](https://developers.trustpilot.com/)                                                               | JSON | Private |
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
 | [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                                | JSON | Private |
+| [eloverblik.dk](https://api.eloverblik.dk/CustomerApi/swagger/index.html)                                      | JSON | Private |
 
 ## Finans
 
