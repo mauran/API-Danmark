@@ -1,6 +1,11 @@
 # API Danmark
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue! 
 
+## COVID-19
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Statens Serum Institut](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19/)                                                                | ZIP/CSV | Public |
+
 ## Betalingsløsninger
 
 | API                                                                                                            | Type | Tilgængelighed |
