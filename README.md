@@ -55,6 +55,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [DMI Vejr](https://confluence.govcloud.dk/display/FDAPI)                                                       | JSON | Private |
 | [DR](http://www.dr.dk/mu-online/)                                                                              | JSON | Public |
 | [TV2 Vejret API](https://vejret-api.tv2.dk) (Private API)                                                      | JSON/XML | Private |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation)                                                      | JSON | Public |
