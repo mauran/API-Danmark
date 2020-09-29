@@ -1,11 +1,6 @@
 # API Danmark
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue! 
 
-## COVID-19
-| API                                                                                                            | Type | Tilgængelighed |
-| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Statens Serum Institut](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19/)                                                                | ZIP/CSV | Public |
-
 ## Betalingsløsninger
 
 | API                                                                                                            | Type | Tilgængelighed |
@@ -22,6 +17,11 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)                                         | JSON | Private |
 | [Scanpay](https://docs.scanpay.dk)                                                                             | JSON | Private |
 | [Nets Netaxept](https://shop.nets.eu/da/web/partners)                                                          | XML | Private |
+
+## COVID-19
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Statens Serum Institut](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19/)                                                                | ZIP/CSV | Public |
 
 
 ## Detail & webshops
