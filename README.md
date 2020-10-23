@@ -193,6 +193,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
 | [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                                | JSON | Private |
 | [eloverblik.dk](https://api.eloverblik.dk/CustomerApi/swagger/index.html)                                      | JSON | Private |
+| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                | JSON | Public |
 
 ## Finans
 
