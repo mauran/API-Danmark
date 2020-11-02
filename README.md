@@ -1,5 +1,5 @@
 # API Danmark
-Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue! 
+Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue!
 
 ## Betalingsløsninger
 
@@ -177,6 +177,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)               | JSON | Public |
 | [CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data).          | JSON | Public |
 | [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
+| [cvr.dev](https://cvr.dev)                                                                                     | JSON | Public |
 
 
 ## Diverse
