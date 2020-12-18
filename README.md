@@ -65,7 +65,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Ressource](http://www.miljoeportal.dk/digital/Sider/forside.aspx)                                             | Webservice | Public |
+| [Ressource](https://miljoeportal.dk/it-systemer-udvikling-og-webservices/udvikler/)                            | Webservice | Public |
 | ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~              | Webservice | Public |
 
 
