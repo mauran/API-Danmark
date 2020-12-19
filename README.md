@@ -47,7 +47,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [HostedShop](http://api-help.hostedshop.dk) (Wannafind, Curanet & ScanNet)                                     | SOAP | Private |
 | [DanDomain Webshop](https://shoppartner.dandomain.dk/dokumentation/api-documentation/)                         | JSON/SOAP | Private |
-| [UnoEuro](https://www.unoeuro.com/docs/api.php)                                                                | JSON | Private |
+| [Simply.com](https://www.simply.com/dk/docs/api/)                                                                | JSON | Private |
 | [Cloud.dk](https://api.cloud.dk/)                                                                             | JSON | Private |
 
 
