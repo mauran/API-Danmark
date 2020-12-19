@@ -125,7 +125,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [eTilbudsavis](http://docs.api.etilbudsavis.dk)                                                                | JSON | Private |
+| [eTilbudsavis](https://etilbudsavis.dk/developers)                                                                | JSON | Private |
 
 
 ## SMS Gateways
