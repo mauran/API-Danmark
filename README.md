@@ -1,6 +1,20 @@
 # API Danmark
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue!
 
+## Information
+
+### Tilgængelighed
+
+#### Public
+
+Det er gratis at bruge API'et, også selvom det kræver login etc.
+
+#### Private
+
+Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
+
+
+
 ## Betalingsløsninger
 
 | API                                                                                                            | Type | Tilgængelighed |
@@ -200,15 +214,3 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)       | JSON | Private |
 
-
-## Information
-
-### Tilgængelighed
-
-#### Public
-
-Det er gratis at bruge API'et, også selvom det kræver login etc.
-
-#### Private
-
-Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
