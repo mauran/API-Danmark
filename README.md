@@ -174,7 +174,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [CVRAPI](http://cvrapi.dk)                                                                                     | JSON | Public |
-| [Digitale regnskaber](http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata)               | JSON | Public |
+| [Digitale regnskaber](https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-regnskabsdata)               | JSON | Public |
 | [CVR-data (Erhvervsstyrelsen)](http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data).          | JSON | Public |
 | [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
 | [cvr.dev](https://cvr.dev)                                                                                     | JSON | Public |
