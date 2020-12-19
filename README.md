@@ -185,7 +185,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | XML | Public |
-| [Det Danske Filminstitut](http://www.dfi.dk/opendata.aspx)                                                     | XML | Public |
+| [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                     | XML | Public |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
 | ~~[Lav Linket Kortere](http://llk.dk/api)~~                                                                    | RAW/HTTP | Public |
