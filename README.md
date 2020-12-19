@@ -149,7 +149,7 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Danmarks Statistik](http://www.dst.dk/da/Statistik/statistikbanken/api)                                       | JSON/XML | Public |
+| [Danmarks Statistik](https://www.dst.dk/da/Statistik/brug-statistikken/muligheder-i-statistikbanken/api)                                       | JSON/XML | Public |
 
 
 ## Telefoni
