@@ -38,8 +38,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)                                                          | XML | Private |
 | [Historisk Atlas](http://api.historiskatlas.dk/)                                                               | JSON | Public |
+<!-- markdown-link-check-disable -->
 | ~~[M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)~~                                        | JSON | ? |
-
+<!-- markdown-link-check-enable-->
 
 ## Hosting
 
@@ -142,7 +143,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Heyloyalty](https://support.heyloyalty.com/hc/en-us/articles/115001593169-3-8-API)                            | JSON | Private |
 | [Ubivox](https://support.ubivox.dk/artikler/introduktion-til-integration-i-ubivox/)                            | Forskellige | Private |
-| [Bullsender](https://api.bullsender.com)                                                                		 | JSON | Private |
+<!-- markdown-link-check-disable -->
+| ~~[Bullsender](https://api.bullsender.com)~~                                                                		 | JSON | Private |
+<!-- markdown-link-check-enable-->
 | [eMailPlatform](http://mailmailmail.net/xmlguide/)                                                             | XML | Private |
 
 ## Statistisk
@@ -190,7 +193,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                     | XML | Public |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
+<!-- markdown-link-check-disable -->
 | ~~[Lav Linket Kortere](http://llk.dk/api)~~                                                                    | RAW/HTTP | Public |
+<!-- markdown-link-check-enable-->
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                      | JSON | Public |
 | [Trustpilot](https://developers.trustpilot.com/)                                                               | JSON | Private |
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
