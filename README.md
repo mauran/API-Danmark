@@ -29,7 +29,6 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Salling Group](https://developer.sallinggroup.com/api-reference)                          | JSON | Private |
-| [SAXO.com](http://api.saxo.com/)                                                                               | XML | Private |
 
 
 ## Historie
