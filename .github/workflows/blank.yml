@@ -1,6 +1,8 @@
 name: CI
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
+  schedule:
+  # Run everyday at 9:00 AM
+  - cron: "0 9 * * *"
   push:
     branches: [ master ]
   pull_request:
