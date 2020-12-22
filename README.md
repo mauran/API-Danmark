@@ -165,7 +165,9 @@ Kender du et dansk API der mangler på listen? Så send et pull request afsted e
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                                                                 | RSS | Public |
-| [GoMore](http://developer.gomore.com/)                                                                         | JSON | Private |
+<!-- markdown-link-check-disable -->
+| ~~[GoMore](http://developer.gomore.com/)~~                                                                         | JSON | Private |
+<!-- markdown-link-check-enable-->
 | [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005)                                     | JSON/XML | Private |
 
 
