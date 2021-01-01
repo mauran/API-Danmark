@@ -197,6 +197,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | XML | Public |
+| [Cirkle K](https://www.circlek.dk/priser)                                                                      | CSV | Public |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                     | XML | Public |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
