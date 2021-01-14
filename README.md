@@ -189,6 +189,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Digitale regnskaber](https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-regnskabsdata)               | JSON | Public |
 | [CVR-data (Erhvervsstyrelsen)](https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-cvr-data).          | JSON | Public |
 | [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
+| [EAN API](https://eanapi.dk/)                                                                                 | JSON | Private |
 | [cvr.dev](https://cvr.dev)                                                                                     | JSON | Public |
 
 
