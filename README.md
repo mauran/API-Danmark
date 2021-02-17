@@ -90,6 +90,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
 | [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
 | [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)                               | HTML | Public |
+| [Seneste beredskabsinformation fra Beredskabsstyrelsen](http://www.odin.dk/RSS/)                               | RSS  | Public |
 
 
 ### Åbne datasæt fra en række danske kommuner
