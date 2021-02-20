@@ -35,7 +35,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 ## COVID-19
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Statens Serum Institut](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19/)                                                                | ZIP/CSV | Public |
+| [Statens Serum Institut](https://covid19.ssi.dk/overvagningsdata/ugentlige-opgorelser-med-overvaagningsdata)   | ZIP/CSV | Public |
 
 
 ## Detail & webshops
