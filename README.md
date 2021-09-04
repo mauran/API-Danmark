@@ -204,6 +204,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
 | <!-- markdown-link-check-disable --> ~~[Lav Linket Kortere](http://llk.dk/api)~~ <!-- markdown-link-check-enable-->  | RAW/HTTP | Public |
+| [KortereLink](https://korterelink.dk/api)                                                                      | JSON | Public |
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                      | JSON | Public |
 | [Trustpilot](https://developers.trustpilot.com/)                                                               | JSON | Private |
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
