@@ -85,13 +85,14 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)                               | HTML | Public |
+| [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                      | Forskelligt | Public |
 | [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
 | [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                           | JSON | Public |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
 | [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
-| [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)                               | HTML | Public |
-| [Seneste beredskabsinformation fra Beredskabsstyrelsen](http://www.odin.dk/RSS/)                               | RSS  | Public |
-
+| [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
+| [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)      | GeoJSON/GML/WMS/WFS  | Public |
 
 ### Åbne datasæt fra en række danske kommuner
 
@@ -199,7 +200,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)       | SOAP | Public |
-| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml)       | SOAP | Public |
+| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml) (fra 2015)      | SOAP | Public |
 | [Circle K](https://www.circlek.dk/priser)                                                                      | CSV | Public |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                     | XML | Public |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
@@ -219,4 +220,4 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)       | JSON | Private |
-
+| [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser)       | XML | Public |
