@@ -213,6 +213,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [eloverblik.dk](https://api.eloverblik.dk/CustomerApi/swagger/index.html)                                      | JSON | Private |
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                | JSON | Public |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                              | JSON | Private |
+| [Krak](https://www.krak.dk/api/cs/wordcloud?query=SØGEORD&profile=krak)                                        | JSON | Public |
 
 ## Finans
 
