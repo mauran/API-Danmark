@@ -93,8 +93,9 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)      | GeoJSON/GML/WMS/WFS  | Public |
-| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)      | JSON/XML | Private/Public |
-| [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                       | JSON/CSV | Private/Public |
+| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)      | JSON/XML | Private |
+| [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                       | JSON/CSV | Private |
+
 ### Åbne datasæt fra en række danske kommuner
 
 | API                                                                                                            | Type | Tilgængelighed |
