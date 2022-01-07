@@ -85,16 +85,20 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Liste over APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)                               | HTML | Public |
-| [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                      | Forskelligt | Public |
-| [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
-| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                           | JSON | Public |
-| [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
-| [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
+| **[APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)** udarbejdet af Erhvervsstyrelsen | HTML | Public |
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
+| [CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)       | SOAP | Public |
+| [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
+| [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
+| [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
+| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                           | JSON | Public |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)      | GeoJSON/GML/WMS/WFS  | Public |
-| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)      | JSON/XML | Private |
+| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                       | XML | Public |
+| [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
+| [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                       | JSON/CSV | Private |
+| **[OpenData.dk](https://opendata.dk)** - fællesoffentlig forening for udbredelse af åbne data                      | Forskelligt | Public |
+| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)      | JSON/XML | Private |
 
 ### Åbne datasæt fra en række danske kommuner
 
@@ -201,12 +205,9 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)       | SOAP | Public |
 | [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml) (fra 2015)      | SOAP | Public |
 | [Circle K](https://www.circlek.dk/priser)                                                                      | CSV | Public |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                     | XML | Public |
-| [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
-| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) (information om politikere)                       | XML | Public |
 | <!-- markdown-link-check-disable --> ~~[Lav Linket Kortere](http://llk.dk/api)~~ <!-- markdown-link-check-enable-->  | RAW/HTTP | Public |
 | [KortereLink](https://korterelink.dk/api)                                                                      | JSON | Public |
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                      | JSON | Public |
