@@ -59,8 +59,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [HostedShop](http://api-help.hostedshop.dk) (Wannafind, Curanet & ScanNet)                                     | SOAP | Private |
 | [DanDomain Webshop](https://shoppartner.dandomain.dk/dokumentation/api-documentation/)                         | JSON/SOAP | Private |
-| [Simply.com](https://www.simply.com/dk/docs/api/)                                                                | JSON | Private |
-| [Cloud.dk](https://api.cloud.dk/)                                                                             | JSON | Private |
+| [Simply.com](https://www.simply.com/dk/docs/api/)                                                              | JSON | Private |
+| [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
+| [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
+| [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
+
 
 
 ## Medier
@@ -140,6 +143,8 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Zenegy](https://zenegy.com/api-og-dokumentation/)                                                             | JSON | Private |
+| [Salary](https://api.salary.dk/docs)                                                                           | JSON | Private |
+
 
 ## Reklamer
 
@@ -156,6 +161,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [SMS1919.dk](http://www.sms1919.dk/api/)                                                                       | XML | Private |
 | [GatewayAPI.com](https://gatewayapi.com/docs/)                                                                 | JSON/SOAP | Private |
 | [CPSMS.dk](https://api.cpsms.dk/documentation/)                                                                | JSON | Private |
+
 
 ## E-mail marketing
 | API                                                                                                            | Type | Tilgængelighed |
