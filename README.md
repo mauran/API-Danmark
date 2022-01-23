@@ -63,6 +63,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
+| [DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)                                                   | JSON | Public |
 
 
 
@@ -184,6 +185,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Firmafon](https://dev.firmafon.dk/)                                                                           | JSON | Private |
 | [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                              | JSON/XML | Private |
+| [Relatel](https://dev.relatel.dk/api-v2/)                                                                      | JSON | Private |
 
 
 ## Transport
@@ -205,6 +207,14 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
 | [EAN API](https://eanapi.dk/)                                                                                 | JSON | Private |
 | [cvr.dev](https://cvr.dev)                                                                                     | JSON | Public |
+
+
+## POS
+
+| API                                                                                                            | Type | Tilgængelighed |
+| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [ServicePOS](https://api-docs.servicepos.com)                                                                  | JSON | Private |
+| [OnlinePOS](https://speca.io/SimonOnlinePOS/external-api-v2?key=41502b8375f30e56b210877ef797b7e4)              | JSON | Private |
 
 
 ## Diverse
