@@ -30,6 +30,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Reepay](https://docs.reepay.com/api/)                                                                         | JSON | Private |
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)                                         | JSON | Private |
 | [Scanpay](https://docs.scanpay.dk)                                                                             | JSON | Private |
+| [FarPay](https://www.farpay.io/api/)                                                                           | JSON | Private |
 | [Nets Netaxept](https://shop.nets.eu/da/web/partners)                                                          | XML | Private |
 
 ## COVID-19
