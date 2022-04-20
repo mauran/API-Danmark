@@ -43,7 +43,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
+| [Coop](https://developerdemo.cl.coop.dk/docs/services)                          | JSON | Private |
 | [Salling Group](https://developer.sallinggroup.com/api-reference)                          | JSON | Private |
+
+
+
 
 
 ## Historie
