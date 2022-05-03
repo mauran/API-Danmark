@@ -23,7 +23,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [ePay](http://tech.epay.dk/da/betalingswebservice)                                                             | JSON | Private |
 | [MobilePay](https://developer.mobilepay.dk)                                                                    | JSON | Public |
 | [Paylike](https://github.com/paylike/api-docs)                                                                 | JSON | Private |
-| [QuickPay](https://quickpay.net/quickpayapi)                                                                   | JSON | Private |
+| [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)                                             | JSON | Private |
 | [YourPay](http://api.yourpay.dk)                                                                               | JSON | Private |
 | [OnPay](https://manage.onpay.io/docs/)                                                                         | JSON | Private |
 | [DIBS](http://tech.dibspayment.com/D2/API)                                                                     | JSON | Private |
