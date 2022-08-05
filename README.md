@@ -31,7 +31,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)                                         | JSON | Private |
 | [Scanpay](https://docs.scanpay.dk)                                                                             | JSON | Private |
 | [FarPay](https://www.farpay.io/api/)                                                                           | JSON | Private |
-| [Nets Netaxept](https://shop.nets.eu/da/web/partners)                                                          | XML | Private |
+| [Nets Netaxept](https://developers.nets.eu/netaxept/en-EU/docs/)                                               | XML | Private |
 
 ## COVID-19
 | API                                                                                                            | Type | Tilgængelighed |
