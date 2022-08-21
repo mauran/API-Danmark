@@ -215,6 +215,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [eniro](https://api.eniro.com)                                                                                 | JSON | Private |
 | [EAN API](https://eanapi.dk/)                                                                                 | JSON | Private |
 | [cvr.dev](https://cvr.dev)                                                                                     | JSON | Public |
+| [APICVR (Public Beta)](https://apicvr.dk)                                                                                     | JSON | Public |
 
 
 ## POS
