@@ -204,6 +204,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                                                                 | RSS | Public |
 |<!-- markdown-link-check-disable --> ~~[GoMore](http://developer.gomore.com/)~~                        <!-- markdown-link-check-enable-->     | JSON | Private |
 | [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005)                                     | JSON/XML | Private |
+| [Synsbasen API](https://api.synsbasen.dk)                                                                      | JSON | Public |
 
 
 ## Virksomhedsdata
