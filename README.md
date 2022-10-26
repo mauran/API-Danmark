@@ -190,11 +190,10 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Telefoni
 
-| API                                                                                                            | Type | Tilgængelighed |
-| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Firmafon](https://dev.firmafon.dk/)                                                                           | JSON | Private |
-| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                              | JSON/XML | Private |
-| [Relatel](https://dev.relatel.dk/api-v2/)                                                                      | JSON | Private |
+| API                                                                               | Type | Tilgængelighed |
+|-----------------------------------------------------------------------------------|:----:| :------------: |
+| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf) | JSON/XML | Private |
+| [Relatel](https://dev.relatel.dk/api-v2/)                                         | JSON | Private |
 
 
 ## Transport
@@ -249,7 +248,8 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Finans
 
-| API                                                                                                            | Type | Tilgængelighed |
-| -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)       | JSON | Private |
-| [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser)       | XML | Public |
+| API                                                                        | Type | Tilgængelighed |
+|----------------------------------------------------------------------------|:----:|:--------------:|
+| [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               | JSON |    Private     |
+| [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser) | XML  |     Public     |
+| [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                 | JSON |    Private     |
