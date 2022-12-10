@@ -130,7 +130,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [CoolRunner](https://docs.coolrunner.dk)                                                                       | JSON | Private |
 | [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)                                        | SOAP | Public |
 | [GLS Parcel Processing](http://api.gls.dk/ws/)                                                                 | JSON/XML | Private |
-| [Pakkelabels.dk](https://api.pakkelabels.dk)                                                                   | JSON | Private |
+| [Shipmondo](https://app.shipmondo.com/api/public/v3/specification)                                        | JSON | Private |
 | [PostNord Developer](https://developer.postnord.com)                                                           | JSON | Private |
 | [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                                                   | JSON/XML/Webservice | Private |
 | [Unifaun](https://www.unifaunonline.se/rs-docs/)                                                               | JSON | Private |
