@@ -61,7 +61,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [HostedShop](http://api-help.hostedshop.dk) (Wannafind, Curanet & ScanNet)                                     | SOAP | Private |
+| [HostedShop](https://help.hostedshop.dk/integration-via-api) (Wannafind, Curanet & ScanNet)                    | SOAP | Private |
 | [DanDomain Webshop](https://shoppartner.dandomain.dk/dokumentation/api-documentation/)                         | JSON/SOAP | Private |
 | [Simply.com](https://www.simply.com/dk/docs/api/)                                                              | JSON | Private |
 | [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
