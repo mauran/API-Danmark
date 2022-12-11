@@ -238,7 +238,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                      | JSON | Public |
 | [Trustpilot](https://developers.trustpilot.com/)                                                               | JSON | Private |
 | [TimeLog](http://api.timelog.com/)                                                                             | XML | Public |
-| [Ordrestyring.dk](https://api.ordrestyring.dk/)                                                                | JSON | Private |
+| [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                        | JSON | Private |
 | [eloverblik.dk](https://api.eloverblik.dk/CustomerApi/swagger/index.html)                                      | JSON | Private |
 | [Energi Data Service](https://www.energidataservice.dk/datasets)                                              | JSON | Public |
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                | JSON | Public |
