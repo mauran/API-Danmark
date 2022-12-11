@@ -20,7 +20,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Clearhaus](http://docs.gateway.clearhaus.com/)                                                                | JSON | Private |
-| [ePay](http://tech.epay.dk/da/betalingswebservice)                                                             | JSON | Private |
+| [ePay](https://epay.bambora.com/da/betalingswebservice)                                                             | JSON | Private |
 | [MobilePay](https://developer.mobilepay.dk)                                                                    | JSON | Public |
 | [Paylike](https://github.com/paylike/api-docs)                                                                 | JSON | Private |
 | [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)                                             | JSON | Private |
