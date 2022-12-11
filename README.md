@@ -67,7 +67,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
-| [DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)                                                   | JSON | Public |
+| ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)~                                                 | JSON | Public |
 
 
 
@@ -77,7 +77,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [DMI Vejr](https://confluence.govcloud.dk/display/FDAPI)                                                       | JSON | Private |
 | [DR](http://www.dr.dk/mu-online/)                                                                              | JSON | Private |
-| [TV2 Vejret API](https://vejret-api.tv2.dk) (Private API)                                                      | JSON/XML | Private |
+| [TV2 Vejret API](https://weather.api.tv2.dk) (Private API)                                                     | JSON/XML | Private |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation)                                                      | JSON | Public |
 
 
