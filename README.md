@@ -67,7 +67,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
-| ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)~                                                 | JSON | Public |
+| <!-- markdown-link-check-disable --> ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)<!-- markdown-link-check-disable --> ~~~                                                 | JSON | Public |
 
 
 
@@ -86,16 +86,16 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [Ressource](https://miljoeportal.dk/it-systemer-udvikling-og-webservices/udvikler/)                            | Webservice | Public |
-| ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~              | Webservice | Public |
+| <!-- markdown-link-check-disable --> ~~[Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx)~~ <!-- markdown-link-check-enable-->              | Webservice | Public |
 
 
 ## Offentlige
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| **[APIer udgivet af det offentlige](http://datahub.virk.dk/data/search)** udarbejdet af Erhvervsstyrelsen | HTML | Public |
+| **[APIer udgivet af det offentlige](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data)** udarbejdet af Erhvervsstyrelsen | HTML | Public |
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
-| [CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)       | SOAP | Public |
+| <!-- markdown-link-check-disable --> ~~[CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)~~ <!-- markdown-link-check-enable-->       | SOAP | Public |
 | [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
 | [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)                                               | JSON | Public |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
@@ -103,7 +103,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                           | JSON | Public |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)      | GeoJSON/GML/WMS/WFS  | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                       | XML | Public |
-| [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                                         | JSON/XML | Private |
+|  <!-- markdown-link-check-disable --> ~~[Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)~~ <!-- markdown-link-check-enable-->                                         | JSON/XML | Private |
 | [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                       | JSON/CSV | Public |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                       | JSON/CSV | Private |
@@ -133,7 +133,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [PostNord Developer](https://developer.postnord.com)                                                           | JSON | Private |
 | [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                                                   | JSON/XML/Webservice | Private |
 | [Unifaun](https://www.unifaunonline.se/rs-docs/)                                                               | JSON | Private |
-| [Webshipr](http://docs.webshipr.apiary.io)                                                                     | JSON | Private |
+| [Webshipr](https://webshipr.docs.apiary.io)                                                                     | JSON | Private |
 
 
 ## Regnskabsprogrammer
