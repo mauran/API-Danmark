@@ -67,7 +67,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
-| <!-- markdown-link-check-disable --> ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)<!-- markdown-link-check-disable --> ~~~                                                 | JSON | Public |
+| <!-- markdown-link-check-disable --> ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)~~<!-- markdown-link-check-enable --> | JSON | Public |
 
 
 
