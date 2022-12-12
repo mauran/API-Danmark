@@ -255,3 +255,5 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               | JSON |    Private     |
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser) | XML  |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                 | JSON |    Private     |
+| [Nordigen PSD2 adgang til konto(https://nordigen.com/en/account_information_documenation/api-documention/overview/)                 | JSON |    Public     |
+
