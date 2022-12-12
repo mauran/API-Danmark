@@ -64,7 +64,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [HostedShop](https://help.hostedshop.dk/integration-via-api) (Wannafind, Curanet & ScanNet)                    | SOAP | Private |
 | [DanDomain Webshop](https://shoppartner.dandomain.dk/dokumentation/api-documentation/)                         | JSON/SOAP | Private |
 | [Simply.com](https://www.simply.com/dk/docs/api/)                                                              | JSON | Private |
-| [Cloud.dk](https://api.cloud.dk/)                                                                              | JSON | Private |
+|<!-- markdown-link-check-disable -->~~[Cloud.dk](https://api.cloud.dk/)~~                                                                              |  <!-- markdown-link-check-enable--> JSON | Private |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                                 | JSON | Private |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                                               | JSON | Private |
 | <!-- markdown-link-check-disable --> ~~[DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)~~<!-- markdown-link-check-enable --> | JSON | Public |
@@ -93,7 +93,8 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| **[APIer udgivet af det offentlige](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data)** udarbejdet af Erhvervsstyrelsen | HTML | Public |
+| [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | SOAP | Private
+| [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | SOAP | Private
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
 | <!-- markdown-link-check-disable --> ~~[CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)~~ <!-- markdown-link-check-enable-->       | SOAP | Public |
 | [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
@@ -193,6 +194,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |-----------------------------------------------------------------------------------|:----:| :------------: |
 | [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf) | JSON/XML | Private |
 | [Relatel](https://dev.relatel.dk/api-v2/)                                         | JSON | Private |
+| [ipnordic](https://apidocs.ipnordic.dk/)                                         | JSON | Private |
 
 
 ## Transport
@@ -224,6 +226,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [ServicePOS](https://api-docs.servicepos.com)                                                                  | JSON | Private |
 | [OnlinePOS](https://speca.io/SimonOnlinePOS/external-api-v2?key=41502b8375f30e56b210877ef797b7e4)              | JSON | Private |
+
 
 
 ## Diverse
