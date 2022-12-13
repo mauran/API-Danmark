@@ -152,7 +152,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [Zenegy](https://zenegy.com/api-og-dokumentation/)                                                             | JSON | Private |
+| [Zenegy](https://developers.zenegy.com/)                                                                       | JSON | Private |
 | [Salary](https://api.salary.dk/docs)                                                                           | JSON | Private |
 | [DataLøn](https://dataloen-api.zendesk.com/hc/da)                                                              | JSON | Private |
 
