@@ -247,6 +247,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                | JSON | Public |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                | JSON | Public |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                              | JSON | Private |
+| [Previsto](https://docs.previsto.com/help/api/introduction-to-api)                                             | JSON | Private |
 
 ## Finans
 
