@@ -249,6 +249,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                | JSON | Public |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                              | JSON | Private |
 | [Previsto](https://docs.previsto.com/help/api/introduction-to-api)                                             | JSON | Private |
+| [MotorAPI](https://motorapi.dk/)                                                                               | JSON | Public  |
 
 ## Finans
 
