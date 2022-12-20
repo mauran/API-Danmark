@@ -31,6 +31,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Scanpay](https://docs.scanpay.dk)                                                                             | JSON | Private |
 | [FarPay](https://www.farpay.io/api/)                                                                           | JSON | Private |
 | [Nets Netaxept](https://developers.nets.eu/netaxept/en-EU/docs/)                                               | XML | Private |
+| [Pensopay](https://docs.pensopay.com/reference/getting-started-with-your-api)                                  | JSON | Private |
 
 ## COVID-19
 | API                                                                                                            | Type | Tilgængelighed |
