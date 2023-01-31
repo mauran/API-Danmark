@@ -78,7 +78,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |------------------------------------------------------------|:--------:|:--------------:|
 | [DMI Vejr](https://confluence.govcloud.dk/display/FDAPI)   |   JSON   |    Private     |
 | [DR](http://www.dr.dk/mu-online/)                          |   JSON   |    Private     |
-| [TV2 Vejret API](https://weather.api.tv2.dk) (Private API) | JSON/XML |    Private     |
+| <!-- markdown-link-check-disable --> ~~[TV2 Vejret API](https://weather.api.tv2.dk) (Private API)~~<!-- markdown-link-check-enable --> | JSON/XML |    Private     |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation)  |   JSON   |     Public     |
 
 
