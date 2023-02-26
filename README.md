@@ -170,6 +170,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                             |   Type    | Tilgængelighed |
 |-------------------------------------------------|:---------:|:--------------:|
 | [Txty.dk](http://api.txty.dk/4/)                |   JSON    |    Private     |
+| [SMS.dk.dk](https://docs.sms.dk/)               |   JSON    |    Private     |
 | [SMS1919.dk](http://www.sms1919.dk/api/)        |    XML    |    Private     |
 | [GatewayAPI.com](https://gatewayapi.com/docs/)  | JSON/SOAP |    Private     |
 | [CPSMS.dk](https://api.cpsms.dk/documentation/) |   JSON    |    Private     |
