@@ -227,7 +227,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                               | Type | Tilgængelighed |
 |---------------------------------------------------------------------------------------------------|:----:|:--------------:|
-| [ServicePOS](https://api-docs.servicepos.com)                                                     | JSON |    Private     |
+| [Customers 1st](https://api-docs.c1st.com).                                                       | JSON |    Private     |
 | [OnlinePOS](https://speca.io/SimonOnlinePOS/external-api-v2?key=41502b8375f30e56b210877ef797b7e4) | JSON |    Private     |
 
 
