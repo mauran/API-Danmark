@@ -174,7 +174,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |-------------------------------------------------------------------------------------|:-----------:|:--------------:|
 | [Heyloyalty](https://support.heyloyalty.com/hc/en-us/articles/115001593169-3-8-API) |    JSON     |    Private     |
 | [Ubivox](https://support.ubivox.dk/artikler/introduktion-til-integration-i-ubivox/) | Forskellige |    Private     |
-| [eMailPlatform](http://mailmailmail.net/xmlguide/)                                  |     XML     |    Private     |
 
 ## Statistisk
 
@@ -273,4 +272,6 @@ API'er der ikke længere er tilgængelige
 | [Bullsender](https://api.bullsender.com)                                                      |    JSON    |    Private     |
 | [GoMore](http://developer.gomore.com/)                                                        |    JSON    |    Private     |
 | [Lav Linket Kortere](http://llk.dk/api)                                                       |  RAW/HTTP  |     Public     |
+| [eMailPlatform](http://mailmailmail.net/xmlguide/)                                  |     XML     |    Private     |
+
 <!-- markdown-link-check-enable-->
