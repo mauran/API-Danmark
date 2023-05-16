@@ -97,21 +97,22 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | SOAP | Private
 | [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | SOAP | Private
-| [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                 | RSS  | Public |
-| [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                      | JSON | Public |
-| [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)                                               | JSON | Public |
+| [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                       | RSS  | Public |
+| [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                            | JSON | Public |
+| [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)           | JSON | Public |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
-| [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                      | JSON/XML | Public |
-| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                           | JSON | Public |
-| [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)      | GeoJSON/GML/WMS/WFS  | Public |
-| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                       | XML | Public |
-| [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                       | JSON/CSV | Public |
-| [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi) | JSON/XML/KML | Public |
-| [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                       | JSON/CSV | Private |
-| **[OpenData.dk](https://opendata.dk)** - fællesoffentlig forening for udbredelse af åbne data                      | Forskelligt | Public |
-| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)      | JSON/XML | Private |
-| [Retsinformation](https://api.retsinformation.dk/index.html)                                                   | JSON | Public  |
-| [Statstidende](https://api.statstidende.dk/docs/index.html)                                                   | JSON | Private  |
+| [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                            | JSON/XML | Public |
+| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                                 | JSON | Public |
+| [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)            | GeoJSON/GML/WMS/WFS  | Public |
+| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                             | XML | Public |
+| [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                     | JSON/CSV | Public |
+| [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)     | JSON/XML/KML | Public |
+| [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                             | JSON/CSV | Private |
+| **[OpenData.dk](https://opendata.dk)** - fællesoffentlig forening for udbredelse af åbne data                        | Forskelligt | Public |
+| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)            | JSON/XML | Private |
+| [Retsinformation](https://api.retsinformation.dk/index.html)                                                         | JSON | Public  |
+| [Statstidende](https://api.statstidende.dk/docs/index.html)                                                          | JSON | Private  |
+| [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/data.aspx?oid=2291926)                           | SOAP | Private |
 
 ### Åbne datasæt fra en række danske kommuner
 
