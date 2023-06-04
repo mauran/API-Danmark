@@ -188,6 +188,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                      |   Type   | Tilgængelighed |
 |----------------------------------------------------------------------------------------------------------|:--------:|:--------------:|
 | [Danmarks Statistik](https://www.dst.dk/da/Statistik/brug-statistikken/muligheder-i-statistikbanken/api) | JSON/XML |     Public     |
+| [Børne- og Undervisningsministeriet](https://api.uddannelsesstatistik.dk/)                               |   JSON   |    Private     |
 
 
 ## Telefoni
