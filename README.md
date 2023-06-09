@@ -135,7 +135,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [PostNord Developer](https://developer.postnord.com)                    |        JSON         |    Private     |
 | [UPS](https://www.ups.com/upsdeveloperkit?loc=da_DK)                    | JSON/XML/Webservice |    Private     |
 | [Unifaun](https://www.unifaunonline.se/rs-docs/)                        |        JSON         |    Private     |
-| [Webshipr](https://webshipr.docs.apiary.io)                             |        JSON         |    Private     |
+| [Webshipper](https://docs.webshipper.io)                                |        JSON         |    Private     |
 | [Lagersystem.dk](https://api.lagersystem.dk)                            |        JSON         |    Private     |
 | [Rackbeat.dk](https://api.rackbeat.com)                                 |        JSON         |    Private     |
 
