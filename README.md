@@ -285,4 +285,3 @@ API'er der ikke længere er tilgængelige
 | [Bullsender](https://api.bullsender.com)                                                      |    JSON    |    Private     |
 | [GoMore](http://developer.gomore.com/)                                                        |    JSON    |    Private     |
 | [Lav Linket Kortere](http://llk.dk/api)                                                       |  RAW/HTTP  |     Public     |
-<!-- markdown-link-check-enable-->
