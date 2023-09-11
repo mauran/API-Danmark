@@ -100,6 +100,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                       | RSS  | Public |
 | [Dataforsyningen](https://dataforsyningen.dk/data)                                                            | JSON | Public |
 | [Danmarks Adressers Web API - DAWA](https://dawa.aws.dk/)                                                            | JSON | Public |
+| [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                                            | JSON | Public |
 | [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)           | JSON | Public |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                            | JSON/XML | Public |
@@ -286,4 +287,3 @@ API'er der ikke længere er tilgængelige
 | [Bullsender](https://api.bullsender.com)                                                      |    JSON    |    Private     |
 | [GoMore](http://developer.gomore.com/)                                                        |    JSON    |    Private     |
 | [Lav Linket Kortere](http://llk.dk/api)                                                       |  RAW/HTTP  |     Public     |
-<!-- markdown-link-check-enable-->
