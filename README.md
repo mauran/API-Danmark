@@ -268,22 +268,3 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                                                                | JSON |    Private     |
 | [Nordigen PSD2 adgang til bank konti](https://nordigen.com/en/account_information_documenation/api-documention/overview/) | JSON |     Public     |
 
-
-## Outdated
-
-API'er der ikke længere er tilgængelige
-
-
-<!-- markdown-link-check-disable -->
-| API                                                                                           |    Type    | Tilgængelighed |
-|-----------------------------------------------------------------------------------------------|:----------:|:--------------:|
-| [M/S Museet for Søfart](http://mfs.dk/soeg-i-soefartshistorien/api)                           |    JSON    |       ?        |
-| [Cloud.dk](https://api.cloud.dk/)                                                             |    JSON    |    Private     |
-| [DK-Hostmaster (WHOIS)](https://whois-api.dk-hostmaster.dk/)                                  |    JSON    |     Public     |
-| [TV2 Vejret API](https://weather.api.tv2.dk) (Private API)                                    |  JSON/XML  |    Private     |
-| [Datakilder](http://www.miljoeportal.dk/soegmiljoedata/soeg_areal/Sider/download%20data.aspx) | Webservice |     Public     |
-| [CHR - Det Centrale Husdyrbrugsregister](https://chr.fvst.dk/chri/faces/frontpage)            |    SOAP    |     Public     |
-| [Kortforsyningen](https://www.kortforsyningen.dk/content/webtjenester)                        |  JSON/XML  |    Private     |
-| [Bullsender](https://api.bullsender.com)                                                      |    JSON    |    Private     |
-| [GoMore](http://developer.gomore.com/)                                                        |    JSON    |    Private     |
-| [Lav Linket Kortere](http://llk.dk/api)                                                       |  RAW/HTTP  |     Public     |
