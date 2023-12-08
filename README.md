@@ -25,7 +25,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Paylike](https://github.com/paylike/api-docs)                                | JSON |    Private     |
 | [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)            | JSON |    Private     |
 | [OnPay](https://manage.onpay.io/docs/)                                        | JSON |    Private     |
-| [DIBS](http://tech.dibspayment.com/D2/API)                                    | JSON |    Private     |
+| [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                                    | JSON |    Private     |
 | [Reepay](https://docs.reepay.com/api/)                                        | JSON |    Private     |
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)        | JSON |    Private     |
 | [Scanpay](https://docs.scanpay.dk)                                            | JSON |    Private     |
@@ -68,13 +68,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                              | JSON |    Private     |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                            | JSON |    Private     |
 
-
-
-## Medier
-
-| API                                                       | Type | Tilgængelighed |
-|-----------------------------------------------------------|:----:|:--------------:|
-| [DR](http://www.dr.dk/mu-online/)                         | JSON |    Private     |
 
 
 ## Vejr
