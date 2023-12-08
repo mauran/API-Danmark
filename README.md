@@ -144,7 +144,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Dinero](https://api.dinero.dk/docs)                            | JSON |    Private     |
 | [e-conomic](https://restdocs.e-conomic.com)                     | JSON |    Private     |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/) | JSON |    Private     |
-| [Uniconta](http://www.uniconta.com/da/uniconta-api/)            | .NET |    Private     |
+| [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/)            | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                     | JSON |    Private     |
 
 ## Lønsystemer
