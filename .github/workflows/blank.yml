@@ -1,10 +1,11 @@
 name: CI
 on:
   schedule:
-  # Run everyday at 9:00 AM
-  - cron: "0 9 * * *"
+    # Run every Monday at 9:00 AM
+    - cron: "0 9 * * 1"
   push:
-    branches: [ master ]
+    # This will trigger the workflow on every push to any branch. 
+    # If you want to restrict it to specific branches, you can list them as before.
   pull_request:
     branches: [ master ]
   workflow_dispatch:
