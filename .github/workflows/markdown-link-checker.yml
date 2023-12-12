@@ -1,0 +1,19 @@
+name: Check Markdown Links
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Check for dead links in Markdown files
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'no'
+        config-file: '.github/markdown-link-check-config.json'

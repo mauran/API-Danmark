@@ -1,0 +1,13 @@
+{
+    "timeout": 60,
+    "aliveStatusCodes": [
+        200,
+        201,
+        202,
+        403
+    ],
+    "retryOn429": true,
+    "retryCount": 3,
+    "fallbackRetryDelay": "5s",
+    "maxConcurrentRequests": 100
+}
