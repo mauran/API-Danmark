@@ -98,7 +98,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)           | JSON | Public |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                            | JSON/XML | Public |
-| [Frekvenser](http://frekvens.erhvervsstyrelsen.dk/OffentligtAPI.pdf)                                                 | JSON | Public |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)            | GeoJSON/GML/WMS/WFS  | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                             | XML | Public |
 | [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                     | JSON/CSV | Public |
@@ -108,7 +107,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)            | JSON/XML | Private |
 | [Retsinformation](https://api.retsinformation.dk/index.html)                                                         | JSON | Public  |
 | [Statstidende](https://api.statstidende.dk/docs/index.html)                                                          | JSON | Private  |
-| [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/data.aspx?oid=2291926)                           | SOAP | Private |
+| [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                           | SOAP | Private |
 
 ### Åbne datasæt fra en række danske kommuner
 
@@ -179,7 +178,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |-------------------------------------------------------------------------------------|:-----------:|:--------------:|
 | [Heyloyalty](https://support.heyloyalty.com/hc/en-us/articles/115001593169-3-8-API) |    JSON     |    Private     |
 | [Ubivox](https://support.ubivox.dk/artikler/introduktion-til-integration-i-ubivox/) | Forskellige |    Private     |
-| [eMailPlatform](http://mailmailmail.net/xmlguide/)                                  |     XML     |    Private     |
 
 ## Statistisk
 
@@ -233,7 +231,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                                 | Type | Tilgængelighed |
 |---------------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
-| [Berlingske Meningsmålninger](http://www.b.dk/upload/webred/bmsandbox/opinion_poll/2015/pollofpolls.xml) (fra 2015) | SOAP |     Public     |
 | [Circle K](https://www.circlek.dk/priser)                                                                           | CSV  |     Public     |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                 | XML  |     Public     |
 | [KortereLink](https://korterelink.dk/api)                                                                           | JSON |     Public     |
@@ -246,7 +243,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON |    Private     |
-| [Previsto](https://docs.previsto.com/help/api/introduction-to-api)                                                  | JSON |    Private     |
+| [Previsto](https://docs.previsto.com/en/)                                                  | JSON |    Private     |
 | [MotorAPI](https://motorapi.dk/)                                                                                    | JSON |     Public     |
 | [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                | JSON |    Private     |
 | [Penneo](https://penneo.readme.io/)                                                                                 | JSON |    Private     |
