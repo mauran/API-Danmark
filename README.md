@@ -249,7 +249,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Penneo](https://penneo.readme.io/)                                                                                 | JSON |    Private     |
 | [GetAccept](https://app.getaccept.com/api/)                                                                         | JSON |    Private     |
 | [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON |    Public     |
-| [Det Centrale Ordregister]([https://billigkwh.dk/restfulapi](https://ordregister.dk/)                              | JSON |    Public     |
+| [Det Centrale Ordregister](https://ordregister.dk/)                                                                 | JSON |    Public     |
 
 
 
