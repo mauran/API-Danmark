@@ -243,12 +243,13 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON |    Private     |
-| [Previsto](https://docs.previsto.com/en/)                                                  | JSON |    Private     |
+| [Previsto](https://docs.previsto.com/en/)                                                  | JSON |    Privat e     |
 | [MotorAPI](https://motorapi.dk/)                                                                                    | JSON |     Public     |
 | [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                | JSON |    Private     |
 | [Penneo](https://penneo.readme.io/)                                                                                 | JSON |    Private     |
 | [GetAccept](https://app.getaccept.com/api/)                                                                         | JSON |    Private     |
-| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                         | JSON |    Public     |
+| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON |    Public     |
+| [Det Centrale Ordregister]([https://billigkwh.dk/restfulapi](https://ordregister.dk/))                              | JSON |    Public     |
 
 
 
