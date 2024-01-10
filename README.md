@@ -1,4 +1,5 @@
 # API Danmark
+
 Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue!
 
 ## Information
@@ -13,8 +14,6 @@ Det er gratis at bruge API'et, også selvom det kræver login etc.
 
 Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
-
-
 ## Betalingsløsninger
 
 | API                                                                           | Type | Tilgængelighed |
@@ -25,7 +24,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Paylike](https://github.com/paylike/api-docs)                                | JSON |    Private     |
 | [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)            | JSON |    Private     |
 | [OnPay](https://manage.onpay.io/docs/)                                        | JSON |    Private     |
-| [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                                    | JSON |    Private     |
+| [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                        | JSON |    Private     |
 | [Reepay](https://docs.reepay.com/api/)                                        | JSON |    Private     |
 | [AltaPay](https://altapay.com/technology/integration-manuals#download)        | JSON |    Private     |
 | [Scanpay](https://docs.scanpay.dk)                                            | JSON |    Private     |
@@ -34,10 +33,10 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Pensopay](https://docs.pensopay.com/reference/getting-started-with-your-api) | JSON |    Private     |
 
 ## COVID-19
+
 | API                                                                                                          |  Type   | Tilgængelighed |
 |--------------------------------------------------------------------------------------------------------------|:-------:|:--------------:|
 | [Statens Serum Institut](https://covid19.ssi.dk/overvagningsdata/ugentlige-opgorelser-med-overvaagningsdata) | ZIP/CSV |     Public     |
-
 
 ## Detail & webshops
 
@@ -45,10 +44,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |-------------------------------------------------------------------|:----:|:--------------:|
 | [Coop](https://developerdemo.cl.coop.dk/docs/services)            | JSON |    Private     |
 | [Salling Group](https://developer.sallinggroup.com/api-reference) | JSON |    Private     |
-
-
-
-
 
 ## Historie
 
@@ -68,8 +63,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                              | JSON |    Private     |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                            | JSON |    Private     |
 
-
-
 ## Vejr
 
 | API                                                       | Type | Tilgængelighed |
@@ -77,13 +70,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [DMI Vejr](https://confluence.govcloud.dk/display/FDAPI) - Vejr-, klima- og observationsdata | GeoJSON/JSON |     Public     |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation) | JSON |     Public     |
 
-
 ## Miljødata
 
 | API                                                                                 |    Type    | Tilgængelighed |
 |-------------------------------------------------------------------------------------|:----------:|:--------------:|
 | [Ressource](https://miljoeportal.dk/it-systemer-udvikling-og-webservices/udvikler/) | Webservice |     Public     |
-
 
 ## Offentlige
 
@@ -117,7 +108,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Københavns solutionlab](http://portal.opendata.dk) | Forskelligt |     Public     |
 | [Åbne data fra Aarhus kommune](https://www.odaa.dk) | Forskelligt |     Public     |
 
-
 ## Pakker & logistisk
 
 | API                                                                     |        Type         | Tilgængelighed |
@@ -133,7 +123,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Webshipper](https://docs.webshipper.io)                                |        JSON         |    Private     |
 | [Lagersystem.dk](https://api.lagersystem.dk)                            |        JSON         |    Private     |
 | [Rackbeat.dk](https://api.rackbeat.com)                                 |        JSON         |    Private     |
-
 
 ## Regnskabsprogrammer
 
@@ -160,7 +149,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |----------------------------------------------------|:----:|:--------------:|
 | [eTilbudsavis](https://etilbudsavis.dk/developers) | JSON |    Private     |
 
-
 ## SMS Gateways
 
 | API                                                    |   Type    | Tilgængelighed |
@@ -172,8 +160,8 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [CPSMS.dk](https://api.cpsms.dk/documentation/)        |   JSON    |    Private     |
 | [inMobile.com](https://www.inmobile.com/docs/rest-api) |   JSON    |    Private     |
 
-
 ## E-mail marketing
+
 | API                                                                                 |    Type     | Tilgængelighed |
 |-------------------------------------------------------------------------------------|:-----------:|:--------------:|
 | [Heyloyalty](https://support.heyloyalty.com/hc/en-us/articles/115001593169-3-8-API) |    JSON     |    Private     |
@@ -186,7 +174,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Danmarks Statistik](https://www.dst.dk/da/Statistik/brug-statistikken/muligheder-i-statistikbanken/api) | JSON/XML |     Public     |
 | [Børne- og Undervisningsministeriet](https://api.uddannelsesstatistik.dk/)                               |   JSON   |    Private     |
 
-
 ## Telefoni
 
 | API                                                                               |   Type   | Tilgængelighed |
@@ -195,7 +182,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Relatel](https://dev.relatel.dk/api-v2/)                                         |   JSON   |    Private     |
 | [ipnordic](https://apidocs.ipnordic.dk/)                                          |   JSON   |    Private     |
 
-
 ## Transport
 
 | API                                                                        |   Type   | Tilgængelighed |
@@ -203,7 +189,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                             |   RSS    |     Public     |
 | [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005) | JSON/XML |    Private     |
 | [Synsbasen API](https://api.synsbasen.dk)                                  |   JSON   |     Public     |
-
 
 ## Virksomhedsdata
 
@@ -217,15 +202,12 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [cvr.dev](https://cvr.dev)                                                                                                | JSON |     Public     |
 | [APICVR (Public Beta)](https://apicvr.dk)                                                                                 | JSON |     Public     |
 
-
 ## POS
 
 | API                                                                                               | Type | Tilgængelighed |
 |---------------------------------------------------------------------------------------------------|:----:|:--------------:|
 | [Customers 1st](https://api-docs.c1st.com).                                                       | JSON |    Private     |
 | [OnlinePOS](https://speca.io/SimonOnlinePOS/external-api-v2?key=41502b8375f30e56b210877ef797b7e4) | JSON |    Private     |
-
-
 
 ## Diverse
 
@@ -243,15 +225,13 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON |    Private     |
-| [Previsto](https://docs.previsto.com/en/)                                                  | JSON |    Privat e     |
+| [Previsto](https://docs.previsto.com/en/)                                                                           | JSON |    Private     |
 | [MotorAPI](https://motorapi.dk/)                                                                                    | JSON |     Public     |
 | [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                | JSON |    Private     |
 | [Penneo](https://penneo.readme.io/)                                                                                 | JSON |    Private     |
 | [GetAccept](https://app.getaccept.com/api/)                                                                         | JSON |    Private     |
-| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON |    Public     |
-| [Det Centrale Ordregister](https://ordregister.dk/)                                                                 | JSON |    Public     |
-
-
+| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON |    Public      |
+| [Det Centrale Ordregister](https://ordregister.dk/)                                                                 | JSON |    Public      |
 
 ## Finans
 
@@ -261,4 +241,3 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser)                                                | XML  |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                                                                | JSON |    Private     |
 | [Nordigen PSD2 adgang til bank konti](https://nordigen.com/en/account_information_documenation/api-documention/overview/) | JSON |     Public     |
-
