@@ -82,7 +82,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
 | [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | SOAP | Private|
-| [CVRAPI](https://cvrapi.dk/documentation)                                                                            | JSON | Public |
 | [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | SOAP | Private|
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                       | RSS  | Public |
 | [Dataforsyningen](https://dataforsyningen.dk/data)                                                                   | JSON | Public |
