@@ -50,7 +50,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                   | Type | Tilgængelighed |
 |-------------------------------------------------------|:----:|:--------------:|
 | [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/) | XML  |    Private     |
-| [Historisk Atlas](http://api.historiskatlas.dk/)      | JSON |     Public     |
 
 ## Hosting
 
