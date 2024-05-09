@@ -107,7 +107,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                     |        Type         | Tilgængelighed |
 |-------------------------------------------------------------------------|:-------------------:|:--------------:|
 | [Bring Developer](http://developer.bring.com)                           |    JSON/XML/SOAP    |     Public     |
-| [CoolRunner](https://docs.coolrunner.dk)                                |        JSON         |    Private     |
+| [HomeRunner](https://docs.homerunner.com/)                              |        JSON         |    Private     |
 | [GLS Pakkeshops](http://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD) |        SOAP         |     Public     |
 | [GLS Parcel Processing](http://api.gls.dk/ws/)                          |      JSON/XML       |    Private     |
 | [Shipmondo](https://app.shipmondo.com/api/public/v3/specification)      |        JSON         |    Private     |
