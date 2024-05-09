@@ -68,7 +68,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                       | Type | Tilgængelighed |
 |-----------------------------------------------------------|:----:|:--------------:|
-| [DMI Vejr](https://confluence.govcloud.dk/display/FDAPI) - Vejr-, klima- og observationsdata | GeoJSON/JSON |     Public     |
+| [DMI Vejr](https://opendatadocs.dmi.govcloud.dk/DMIOpenData) - Vejr-, klima- og observationsdata | GeoJSON/JSON |     Public     |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation) | JSON |     Public     |
 
 ## Miljødata
