@@ -81,12 +81,13 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                            | Type | Tilgængelighed |
 | -------------------------------------------------------------------------------------------------------------- |:----:| :------------: |
-| [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | SOAP | Private
-| [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | SOAP | Private
+| [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | SOAP | Private|
+| [CVRAPI](https://cvrapi.dk/documentation)                                                                            | JSON | Public |
+| [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | SOAP | Private|
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                       | RSS  | Public |
-| [Dataforsyningen](https://dataforsyningen.dk/data)                                                            | JSON | Public |
-| [Danmarks Adressers Web API - DAWA](https://dawadocs.dataforsyningen.dk/dok/api)                                                            | JSON | Public |
-| [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                                            | JSON | Public |
+| [Dataforsyningen](https://dataforsyningen.dk/data)                                                                   | JSON | Public |
+| [Danmarks Adressers Web API - DAWA](https://dawadocs.dataforsyningen.dk/dok/api)                                     | JSON | Public |
+| [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                         | JSON | Public |
 | [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)           | JSON | Public |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager | REST API | Private |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                            | JSON/XML | Public |
@@ -95,17 +96,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                     | JSON/CSV | Public |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)     | JSON/XML/KML | Public |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                             | JSON/CSV | Private |
-| **[OpenData.dk](https://opendata.dk)** - fællesoffentlig forening for udbredelse af åbne data                        | Forskelligt | Public |
+| [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                            | Forskelligt | Public |
 | [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)            | JSON/XML | Private |
 | [Retsinformation](https://api.retsinformation.dk/index.html)                                                         | JSON | Public  |
-| [Statstidende](https://api.statstidende.dk/docs/index.html)                                                          | JSON | Private  |
+| [Statstidende](https://api.statstidende.dk/docs/index.html) - Kræver certifikat for at tilgå                                                         | JSON | Private  |
 | [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                           | SOAP | Private |
-
-### Åbne datasæt fra en række danske kommuner & regioner
-
-| API                                                 |    Type     | Tilgængelighed |
-|-----------------------------------------------------|:-----------:|:--------------:|
-| [OpenData](https://www.opendata.dk/) - Åbne data fra en lang række kommuner & regioner i Danmark  | Forskelligt |     Public     |
 
 ## Pakker & logistisk
 
