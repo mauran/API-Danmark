@@ -19,17 +19,17 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                           | Type | Tilgængelighed |
 |-------------------------------------------------------------------------------|:----:|:--------------:|
 | [Clearhaus](http://docs.gateway.clearhaus.com/)                               | JSON |    Private     |
-| [ePay](https://epay.bambora.com/da/betalingswebservice)                       | JSON |    Private     |
-| [MobilePay](https://developer.mobilepay.dk)                                   | JSON |     Public     |
+| [ePay](https://docs.epay.dk/)                                                 | JSON |    Private     |
+| [MobilePay/Vipps](https://developer.vippsmobilepay.com/)                      | JSON |     Public     |
 | [Paylike](https://github.com/paylike/api-docs)                                | JSON |    Private     |
 | [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)            | JSON |    Private     |
-| [OnPay](https://manage.onpay.io/docs/)                                        | JSON |    Private     |
+| [OnPay](https://onpay.io/docs/technical/index.html#introduction)              | JSON |    Private     |
 | [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                        | JSON |    Private     |
-| [Reepay](https://docs.reepay.com/api/)                                        | JSON |    Private     |
-| [AltaPay](https://altapay.com/technology/integration-manuals#download)        | JSON |    Private     |
-| [Scanpay](https://docs.scanpay.dk)                                            | JSON |    Private     |
+| [Billwerk+](https://optimize-docs.billwerk.com/)                              | JSON |    Private     |
+| [AltaPay](https://documentation.altapay.com/Content/Ecom/Ecom%20Home.htm)     | JSON |    Private     |
+| [Scanpay](https://docs.scanpay.dev/)                                          | JSON |    Private     |
 | [FarPay](https://www.farpay.io/api/)                                          | JSON |    Private     |
-| [Nets Netaxept](https://developers.nets.eu/netaxept/en-EU/docs/)              | XML  |    Private     |
+| [Nets Netaxept](https://developer.nexigroup.com/netaxept/en-EU/docs/)         | XML  |    Private     |
 | [Pensopay](https://docs.pensopay.com/reference/getting-started-with-your-api) | JSON |    Private     |
 
 ## COVID-19
