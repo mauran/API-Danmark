@@ -101,13 +101,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Statstidende](https://api.statstidende.dk/docs/index.html)                                                          | JSON | Private  |
 | [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                           | SOAP | Private |
 
-### Åbne datasæt fra en række danske kommuner
+### Åbne datasæt fra en række danske kommuner & regioner
 
 | API                                                 |    Type     | Tilgængelighed |
 |-----------------------------------------------------|:-----------:|:--------------:|
-| [Københavns kommune data bank](http://data.kk.dk/)  | Forskelligt |     Public     |
-| [Københavns solutionlab](http://portal.opendata.dk) | Forskelligt |     Public     |
-| [Åbne data fra Aarhus kommune](https://www.odaa.dk) | Forskelligt |     Public     |
+| [OpenData](https://www.opendata.dk/) - Åbne data fra en lang række kommuner & regioner i Danmark  | Forskelligt |     Public     |
 
 ## Pakker & logistisk
 
