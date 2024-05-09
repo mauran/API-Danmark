@@ -75,7 +75,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                 |    Type    | Tilgængelighed |
 |-------------------------------------------------------------------------------------|:----------:|:--------------:|
-| [Ressource](https://miljoeportal.dk/it-systemer-udvikling-og-webservices/udvikler/) | Webservice |     Public     |
+| [Ressource](https://miljoeportal.dk/it-systemer-udvikling-og-webservices/kom-godt-i-gang-med-udvikling/) | Webservice |     Public     |
 
 ## Offentlige
 
