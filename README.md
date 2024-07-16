@@ -117,6 +117,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Lagersystem.dk](https://api.lagersystem.dk)                            |        JSON         |    Private     |
 | [Rackbeat.dk](https://api.rackbeat.com)                                 |        JSON         |    Private     |
 
+
 ## Regnskabsprogrammer
 
 | API                                                             | Type | Tilgængelighed |
@@ -125,8 +126,9 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Dinero](https://api.dinero.dk/docs)                            | JSON |    Private     |
 | [e-conomic](https://restdocs.e-conomic.com)                     | JSON |    Private     |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/) | JSON |    Private     |
-| [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/)            | .NET |    Private     |
+| [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/) | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                     | JSON |    Private     |
+| [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)     | JSON |    Private     |
 
 ## Lønsystemer
 
