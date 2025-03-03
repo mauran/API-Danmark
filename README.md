@@ -91,7 +91,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                            | JSON/XML | Public |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)            | GeoJSON/GML/WMS/WFS  | Public |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                             | XML | Public |
-| [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                     | JSON/CSV | Public |
+| <!-- markdown-link-check-disable-line --> [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                     | JSON/CSV | Public |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)     | JSON/XML/KML | Public |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                             | JSON/CSV | Private |
 | [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                            | Forskelligt | Public |
