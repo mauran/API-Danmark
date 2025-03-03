@@ -1,5 +1,6 @@
 name: Check Markdown Links
 on:
+  pull_request:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight every day
 
