@@ -28,7 +28,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Billwerk+](https://optimize-docs.billwerk.com/)                              | JSON |    Private     |
 | [AltaPay](https://documentation.altapay.com/Content/Ecom/Ecom%20Home.htm)     | JSON |    Private     |
 | [Scanpay](https://docs.scanpay.dev/)                                          | JSON |    Private     |
-| [FarPay](https://www.farpay.io/api/)                                          | JSON |    Private     |
+| [FarPay](https://www.farpay.io/integrations/api/)                                          | JSON |    Private     |
 | [Nets Netaxept](https://developer.nexigroup.com/netaxept/en-EU/docs/)         | XML  |    Private     |
 | [Pensopay](https://docs.pensopay.com/reference/getting-started) | JSON |    Private     |
 
