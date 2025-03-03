@@ -125,7 +125,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Dinero](https://api.dinero.dk/docs)                            | JSON |    Private     |
 | [e-conomic](https://restdocs.e-conomic.com)                     | JSON |    Private     |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/) | JSON |    Private     |
-| [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/) | .NET |    Private     |
+| <!-- markdown-link-check-disable-line --> [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/) | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                     | JSON |    Private     |
 | [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)     | JSON |    Private     |
 
@@ -173,7 +173,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                               |   Type   | Tilgængelighed |
 |-----------------------------------------------------------------------------------|:--------:|:--------------:|
 | [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf) | JSON/XML |    Private     |
-| [Relatel](https://dev.relatel.dk/api-v2/)                                         |   JSON   |    Private     |
+| [Relatel](https://dev.relatel.dk/)                                         |   JSON   |    Private     |
 | [ipnordic](https://apidocs.ipnordic.dk/)                                          |   JSON   |    Private     |
 
 ## Transport
@@ -216,7 +216,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Trustpilot](https://developers.trustpilot.com/)                                                                    | JSON |    Private     |
 | [TimeLog](http://api.timelog.com/)                                                                                  | XML  |     Public     |
 | [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                             | JSON |    Private     |
-| [eloverblik.dk](https://api.eloverblik.dk/CustomerApi/swagger/index.html)                                           | JSON |    Private     |
 | [Energi Data Service](https://www.energidataservice.dk/datasets)                                                    | JSON |     Public     |
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
