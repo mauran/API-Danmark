@@ -141,7 +141,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                | Type | Tilgængelighed |
 |----------------------------------------------------|:----:|:--------------:|
-| [eTilbudsavis](https://etilbudsavis.dk/developers) | JSON |    Private     |
+| [eTilbudsavis/Tjek](http://tjek.com/apis-and-sdks) | JSON |    Private     |
 
 ## SMS Gateways
 
