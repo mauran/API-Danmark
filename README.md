@@ -83,6 +83,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen | JSON | Private|
 | [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | JSON | Private|
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                       | RSS  | Public |
+| [Energistyrelsen - EMOData-service, API-løsning til energimærker](https://emoweb.dk/emodata/test/)                   | JSON/XML | Private |
 | [Dataforsyningen](https://dataforsyningen.dk/data)                                                                   | JSON | Public |
 | [Danmarks Adressers Web API - DAWA](https://dawadocs.dataforsyningen.dk/dok/api)                                     | JSON | Public |
 | [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                         | JSON | Public |
