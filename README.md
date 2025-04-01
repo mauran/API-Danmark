@@ -217,6 +217,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Trustpilot](https://developers.trustpilot.com/)                                                                    | JSON |    Private     |
 | [TimeLog](http://api.timelog.com/)                                                                                  | XML  |     Public     |
 | [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                             | JSON |    Private     |
+| [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                   | JSON |    Private     |
 | [Energi Data Service](https://www.energidataservice.dk/datasets)                                                    | JSON |     Public     |
 | [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
