@@ -101,6 +101,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Statstidende](https://api.statstidende.dk/docs/index.html) - Kræver certifikat for at tilgå                                                         | JSON | Private  |
 | [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                           | SOAP | Private |
 | [Lægemiddelstyrelsen, medicinpriser](https://api.medicinpriser.dk/)                                                  | JSON/XML | Public |
+| [Fælles Bibliotek Infrastruktur](https://fbi-api.dbc.dk/)                                                  | JSON | Private |
 
 ## Pakker & logistisk
 
