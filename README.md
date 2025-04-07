@@ -198,7 +198,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [VirkData](https://virkdata.dk)                                                                                           | JSON/XML/PLAIN/HTML/RAW | Public         |
 | [eniro](https://api.eniro.com)                                                                                            | JSON                    | Private        |
 | [EAN API](https://eanapi.dk/)                                                                                             | JSON                    | Private        |
-| [cvr.dev](https://cvr.dev)                                                                                                | JSON                    | Public         |
+| [cvr.dev](https://cvr.dev)                                                                                                | JSON                    | Private         |
 | [APICVR (Public Beta)](https://apicvr.dk)                                                                                 | JSON                    | Public         |
 
 ## POS
