@@ -7,9 +7,7 @@ assignees: mauran
 
 ---
 
-# Titel på API (Kort og præcist)
-
-**Navn på API'en:**
+**Navn på API:**
 [Skriv navnet på API'en her]
 
 **Type af API:** (JSON, XML, SOAP, GraphQL, Andet?)
