@@ -215,7 +215,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |---------------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
 | [Circle K](https://www.circlek.dk/priser)                                                                           | CSV  |     Public     |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                 | XML  |     Public     |
-| [KortereLink](https://korterelink.dk/api)                                                                           | JSON |     Public     |
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                           | JSON |     Public     |
 | [Trustpilot](https://developers.trustpilot.com/)                                                                    | JSON |    Private     |
 | [TimeLog](http://api.timelog.com/)                                                                                  | XML  |     Public     |
