@@ -211,26 +211,27 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Diverse
 
-| API                                                                                                                 | Type | Tilgængelighed |
-|---------------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
-| [Circle K](https://www.circlek.dk/priser)                                                                           | CSV  |     Public     |
-| [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                 | XML  |     Public     |
-| [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                           | JSON |     Public     |
-| [Trustpilot](https://developers.trustpilot.com/)                                                                    | JSON |    Private     |
-| [TimeLog](http://api.timelog.com/)                                                                                  | XML  |     Public     |
-| [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                             | JSON |    Private     |
-| [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                   | JSON |    Private     |
-| [Energi Data Service](https://www.energidataservice.dk/datasets)                                                    | JSON |     Public     |
-| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON |     Public     |
-| [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON |     Public     |
-| [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON |    Private     |
-| [Previsto](https://docs.previsto.com/en/)                                                                           | JSON |    Private     |
-| [MotorAPI](https://motorapi.dk/)                                                                                    | JSON |     Public     |
-| [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                | JSON |    Private     |
-| [Penneo](https://penneo.readme.io/)                                                                                 | JSON |    Private     |
-| [GetAccept](https://app.getaccept.com/api/)                                                                         | JSON |    Private     |
-| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON |    Public      |
-| [Det Centrale Ordregister](https://ordregister.dk/)                                                                 | JSON |    Public      |
+| API                                                                                                                 | Type                        | Tilgængelighed |
+|---------------------------------------------------------------------------------------------------------------------|:---------------------------:|:--------------:|
+| [Circle K](https://www.circlek.dk/priser)                                                                           | CSV                         |     Public     |
+| [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                 | XML                         |     Public     |
+| [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                           | JSON                        |     Public     |
+| [Trustpilot](https://developers.trustpilot.com/)                                                                    | JSON                        |    Private     |
+| [TimeLog](http://api.timelog.com/)                                                                                  | XML                         |     Public     |
+| [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                             | JSON                        |    Private     |
+| [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                   | JSON                        |    Private     |
+| [Energi Data Service](https://www.energidataservice.dk/datasets)                                                    | JSON                        |     Public     |
+| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON                        |     Public     |
+| [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON                        |     Public     |
+| [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON                        |    Private     |
+| [Previsto](https://docs.previsto.com/en/)                                                                           | JSON                        |    Private     |
+| [MotorAPI](https://motorapi.dk/)                                                                                    | JSON                        |     Public     |
+| [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                | JSON                        |    Private     |
+| [Penneo](https://penneo.readme.io/)                                                                                 | JSON                        |    Private     |
+| [GetAccept](https://app.getaccept.com/api/)                                                                         | JSON                        |    Private     |
+| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                        | JSON                        |     Public     |
+| [Det Centrale Ordregister](https://ordregister.dk/)                                                                 | JSON                        |     Public     |
+| [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                      | JSON, XML, CSV, KML, RSS    |     Public     |
 
 ## Finans
 
