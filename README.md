@@ -201,6 +201,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [EAN API](https://eanapi.dk/)                                                                                             | JSON                    | Private        |
 | [cvr.dev](https://cvr.dev)                                                                                                | JSON                    | Private         |
 | [APICVR (Public Beta)](https://apicvr.dk)                                                                                 | JSON                    | Public         |
+| [CVR Intel](https://cvrintel.dk)                                                                                           | JSON/XML/PLAIN/HTML/RAW | Private         |
 
 ## POS
 
