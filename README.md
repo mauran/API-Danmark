@@ -62,6 +62,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                              | JSON |    Private     |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                            | JSON |    Private     |
 | [One.com (Webshop)](https://webshop.one.com/api/v2/docs)                                    | JSON |    Private     |
+| [One.com (VPS)](https://vps.one.com/docs/api#/)                                             | JSON |    Private     |
 
 ## Vejr
 
@@ -243,4 +244,3 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)                                                              | JSON |    Private     |
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser)                                                | XML  |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                                                                | JSON |    Private     |
-
