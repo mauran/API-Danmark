@@ -42,7 +42,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                               | Type | Tilgængelighed |
 |-------------------------------------------------------------------|:----:|:--------------:|
-| [Salling Group](https://developer.sallinggroup.com/api-reference) | JSON |    Private     |
+| [Salling Group](https://developer.sallinggroup.dev/apireference) | JSON |    Private     |
 
 ## Historie
 
@@ -68,7 +68,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                       | Type | Tilgængelighed |
 |-----------------------------------------------------------|:----:|:--------------:|
-| [DMI Vejr](https://opendatadocs.dmi.govcloud.dk/DMIOpenData) - Vejr-, klima- og observationsdata | GeoJSON/JSON |     Public     |
+| [DMI Vejr](https://www.dmi.dk/friedata/dokumentation-paa-engelsk) - Vejr-, klima- og observationsdata | GeoJSON/JSON |     Public     |
 | [Vejret i din by](http://vejr.eu/pages/api-documentation) | JSON |     Public     |
 
 ## Miljødata
@@ -223,7 +223,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                             | JSON                        |    Private     |
 | [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                   | JSON                        |    Private     |
 | [Energi Data Service](https://www.energidataservice.dk/datasets)                                                    | JSON                        |     Public     |
-| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.com/api-reference#apis-holidays)                     | JSON                        |     Public     |
+| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.dev/apireference/holidays)                     | JSON                        |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                     | JSON                        |     Public     |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                                   | JSON                        |    Private     |
 | [Previsto](https://docs.previsto.com/en/)                                                                           | JSON                        |    Private     |
