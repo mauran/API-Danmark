@@ -61,6 +61,10 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Simply.com](https://www.simply.com/dk/docs/api/)                                             | JSON |    Private     |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                | JSON |    Private     |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                              | JSON |    Private     |
+| [curanet (Subscriptions)](https://api.curanet.dk/subscriptions/swagger/index.html)            | JSON |    Private     |
+| [curanet (Webhotel)](https://api.curanet.dk/webhotel/swagger/index.html)                      | JSON |    Private     |
+| [curanet (Orders)](https://api.curanet.dk/orders/swagger/index.html)                          | JSON |    Private     |
+| [curanet (Domains)](https://api.curanet.dk/domains/swagger/index.html)                        | JSON |    Private     |
 | [One.com (Webshop)](https://webshop.one.com/api/v2/docs)                                      | JSON |    Private     |
 | [One.com (VPS)](https://vps.one.com/docs/api#/)                                               | JSON |    Private     |
 
