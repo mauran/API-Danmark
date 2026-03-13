@@ -240,6 +240,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                                      | JSON, XML, CSV, KML, RSS |     Public     |
 | [elprisenligenu.dk](https://www.elprisenligenu.dk/elpris-api)                                                                       |           JSON           |     Public     |
 | [Dansk Data API](https://danskdataapi.dk/)                                                                                          |           JSON           |    Private     |
+| [Er der ferie?](https://www.erderferie.dk/api/v1)                                                                                   |           JSON           |     Public     |
 
 ## Finans
 
