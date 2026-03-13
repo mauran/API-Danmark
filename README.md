@@ -103,6 +103,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                                                                              |     Forskelligt     |     Public     |
 | [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)                                                              |      JSON/XML       |    Private     |
 | [Retsinformation](https://api.retsinformation.dk/index.html)                                                                                                           |        JSON         |     Public     |
+| [Retsinformation API](https://retsinformation-api.dk/)                                                                                                              |        JSON         |     Public     |
 | [Statstidende](https://api.statstidende.dk/docs/index.html) - Kræver certifikat for at tilgå                                                                           |        JSON         |    Private     |
 | [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                                       |        SOAP         |    Private     |
 | [Lægemiddelstyrelsen, medicinpriser](https://api.medicinpriser.dk/)                                                                                                    |      JSON/XML       |     Public     |
