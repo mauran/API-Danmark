@@ -220,7 +220,12 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                                                 |           Type           | Tilgængelighed |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------:|:--------------:|
-| [Circle K](https://www.circlek.dk/priser)                                                                                           |           CSV            |     Public     |
+| [Circle K/Ingo](https://api.circlek.com/eu/prices)                                                                                  |           JSON           |     Public     |
+| [Go'on](https://goon.nu/wp-json/goon/v1/pump-prices)                                                                                |           JSON           |     Public     |
+| [OK](https://www.ok.dk/privat/produkter/priser)                                                                                     |           JSON           |     Public     |
+| [Q8/F24](https://beta.q8.dk/Station/GetStationPrices)                                                                               |           JSON           |     Public     |
+| [Shell](https://shellpumpepriser.geoapp.me/v1/prices)                                                                               |           JSON           |     Public     |
+| [Uno-X](https://unoxmobility.dk/privat/braendstofpriser)                                                                            |           JSON           |     Public     |
 | [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                 |           XML            |     Public     |
 | [MadOpskrifter.nu](http://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                                           |           JSON           |     Public     |
 | [Trustpilot](https://developers.trustpilot.com/)                                                                                    |           JSON           |    Private     |
