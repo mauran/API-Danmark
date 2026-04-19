@@ -208,6 +208,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [cvr.dev](https://cvr.dev)                                                                                                                           | JSON                    | Private        |
 | [APICVR (Public Beta)](https://apicvr.dk)                                                                                                            | JSON                    | Public         |
 | [CVR Intel](https://cvrintel.dk/cvr-api/)                                                                                                            | JSON/XML/PLAIN/HTML/RAW | Private        |
+| [FirmaAPI](https://firmaapi.dk)                                                                                                                      | JSON                    | Public         |
 
 ## POS
 
