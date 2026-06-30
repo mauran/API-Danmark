@@ -224,6 +224,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                                                 |           Type           | Tilgængelighed |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------:|:--------------:|
 | [Circle K/Ingo](https://www.circlek.dk/media-assets/uploads/2025-12/DK%20Fuel%20Prices%20API%20doc.pdf)                                                                                  |           JSON           |     Public     |
+| [fuelprices.dk](https://fuelprices.dk/)                                                                                             |           JSON           |     Public     |
 | [Go'on](https://goon.nu/faa-adgang-til-api/)                                                                                        |           JSON           |     Public     |
 | [OK](https://www.ok.dk/privat/produkter/priser)                                                                                     |           JSON           |     Public     |
 | [Q8/F24](https://beta.q8.dk/Station/GetStationPrices)                                                                               |           JSON           |     Public     |
