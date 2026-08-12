@@ -212,6 +212,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [CVR Intel](https://cvrintel.dk/cvr-api/)                                                                                                            | JSON/XML/PLAIN/HTML/RAW | Private        |
 | [FirmaAPI](https://firmaapi.dk)                                                                                                                      | JSON                    | Public         |
 | [CVR Lookup](https://cvrlookup.dk/cvr-api)                                                                                                           | JSON/CSV                | Public         |
+| [UniteApps CVR - data, identitet og regnskaber](https://cvr.uniteapps.dk/docs/api)                                                                   | JSON                    | Public         |
 
 ## POS
 
