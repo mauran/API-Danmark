@@ -254,6 +254,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Min strøm.app](https://www.minstroem.app/api)                                                                                       |           JSON           |     Public     |
 | [Dansk Data API](https://danskdataapi.dk/)                                                                                          |           JSON           |    Private     |
 | [Er der ferie?](https://www.erderferie.dk/api/v1)                                                                                   |           JSON           |     Public     |
+| [APIAPI.dk - API til at finde API'erne](https://apiapi.dk/)                                                                                                     |           JSON           |     Public     |
 
 ## Finans
 
