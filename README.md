@@ -261,6 +261,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                        |  Type   | Tilgængelighed |
 |----------------------------------------------------------------------------|:-------:|:--------------:|
 | [Bankdata](https://www.bankdata.dk/developers/api/getting-started)         | Unknown |    Private     |
+| [Danske Bank](https://developers.danskebank.com/)                          |  JSON   |    Private     |
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               |  JSON   |    Private     |
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser) |   XML   |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                 |  JSON   |    Private     |
