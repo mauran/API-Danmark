@@ -1,0 +1,106 @@
+name: Tilføj et API
+description: Foreslå et dansk API til listen
+title: "[API]: "
+labels: ["new-api"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tak for dit bidrag! Udfyld felterne nedenfor, så bliver API'et tilføjet til listen via et pull request.
+
+        **Public**: Det er gratis at bruge API'et, også selvom det kræver login etc.
+        **Private**: Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
+
+  - type: input
+    id: name
+    attributes:
+      label: Navn på API'et
+      description: Navnet som det skal stå på listen.
+      placeholder: f.eks. Danmarks Statistik
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Link til dokumentation
+      description: Link til API'ets dokumentation (ikke bare firmaets forside).
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Kategori
+      options:
+        - Betalingsløsninger
+        - COVID-19
+        - Detail & webshops
+        - Historie
+        - Hosting
+        - Vejr
+        - Miljødata
+        - Offentlige
+        - Pakker & logistisk
+        - Regnskabsprogrammer
+        - Lønsystemer
+        - Reklamer
+        - SMS Gateways
+        - E-mail marketing
+        - Statistisk
+        - Telefoni
+        - Transport
+        - Virksomhedsdata
+        - POS
+        - Diverse
+        - Finans
+        - Andet / ny kategori
+    validations:
+      required: true
+
+  - type: input
+    id: new_category
+    attributes:
+      label: Ny kategori (kun hvis du valgte "Andet / ny kategori")
+      placeholder: f.eks. Sundhed
+    validations:
+      required: false
+
+  - type: input
+    id: type
+    attributes:
+      label: Type
+      description: Dataformat(er), adskilt med skråstreg.
+      placeholder: JSON, XML, SOAP, JSON/XML, GeoJSON ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: availability
+    attributes:
+      label: Tilgængelighed
+      options:
+        - Public
+        - Private
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Kort beskrivelse (valgfri)
+      description: Få ord der vises efter linket, f.eks. "Vejr-, klima- og observationsdata".
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Tjekliste
+      options:
+        - label: API'et udbydes af en dansk organisation eller indeholder primært danske data.
+          required: true
+        - label: Jeg har tjekket, at API'et ikke allerede er på listen.
+          required: true
+
