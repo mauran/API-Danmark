@@ -255,6 +255,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Dansk Data API](https://danskdataapi.dk/)                                                                                          |           JSON           |    Private     |
 | [Er der ferie?](https://www.erderferie.dk/api/v1)                                                                                   |           JSON           |     Public     |
 | [APIAPI.dk - API til at finde API'erne](https://apiapi.dk/)                                                                                                     |           JSON           |     Public     |
+| [Grundata API](https://grunddataapi.dk/)                                                                                             |           JSON           |     Public     |
 
 ## Finans
 
