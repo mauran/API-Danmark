@@ -46,9 +46,10 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Historie
 
-| API                                                   | Type | Tilgængelighed |
-|-------------------------------------------------------|:----:|:--------------:|
-| [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/) | XML  |    Private     |
+| API                                                                                                                       | Type | Tilgængelighed |
+|---------------------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
+| [Dansk Kultur Arv](http://www.danskkulturarv.dk/api/)                                                                     | XML  |    Private     |
+| [Kalender API](https://api.kalendarium.dk/index.html) - Dansk kalender for år 1-9999 med helligdage, mærkedage m.v.    | JSON |     Public     |
 
 ## Hosting
 
