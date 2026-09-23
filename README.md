@@ -214,6 +214,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [FirmaAPI](https://firmaapi.dk)                                                                                                                      | JSON                    | Public         |
 | [CVR Lookup](https://cvrlookup.dk/cvr-api)                                                                                                           | JSON/CSV                | Public         |
 | [UniteApps CVR - data, identitet og regnskaber](https://cvr.uniteapps.dk/docs/api)                                                                   | JSON                    | Public         |
+| [companydata.dk - CVR-data, regnskaber, ejere og webhooks](https://companydata.dk/da/api)                                                            | JSON                    | Public         |
 
 ## POS
 
