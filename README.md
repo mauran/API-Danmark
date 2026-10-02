@@ -91,7 +91,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Beredskabsstyrelsen](https://www.odin.dk/RSS/) - Seneste beredskabsinformation                                                                                        |         RSS         |     Public     |
 | [Energistyrelsen - EMOData-service, API-løsning til energimærker](https://emoweb.dk/emodata/test/)                                                                     |      JSON/XML       |    Private     |
 | [Dataforsyningen](https://dataforsyningen.dk/data)                                                                                                                     |        JSON         |     Public     |
-| [Danmarks Adressers Web API - DAWA](https://dawadocs.dataforsyningen.dk/dok/api)                                                                                       |        JSON         |     Public     |
 | [Dansk Adresse API](https://www.danskadresseapi.dk)                                                                                                                    |        JSON         |     Public     |
 | [DAWA-erstatning fra companydata.dk](https://dawa.companydata.dk)                                                                                                      |        JSON         |     Public     |
 | [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                                                                           |        JSON         |     Public     |
