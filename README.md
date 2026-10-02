@@ -42,7 +42,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                        | Type | Tilgængelighed |
 |------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
-| <!-- markdown-link-check-disable-line --> [Salling Group](https://developer.sallinggroup.dev/apireference) | JSON |    Private     |
+| [Salling Group](https://developer.sallinggroup.dev/apireference) | JSON |    Private     |
 
 ## Historie
 
@@ -99,7 +99,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                                                              |      JSON/XML       |     Public     |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)                                                              | GeoJSON/GML/WMS/WFS |     Public     |
 | [HvemStemmerHvad](https://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                                                                              |         XML         |     Public     |
-| <!-- markdown-link-check-disable-line --> [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                             |      JSON/CSV       |     Public     |
+| [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                             |      JSON/CSV       |     Public     |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)                                                       |    JSON/XML/KML     |     Public     |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                                                                               |      JSON/CSV       |    Private     |
 | [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                                                                              |     Forskelligt     |     Public     |
@@ -121,7 +121,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [GLS Parcel Processing](https://api.gls.dk/ws/)                                              |      JSON/XML       |    Private     |
 | [Shipmondo](https://app.shipmondo.com/api/public/v3/specification)                           |        JSON         |    Private     |
 | [PostNord Developer](https://developer.postnord.com)                                         |        JSON         |    Private     |
-| <!-- markdown-link-check-disable-line --> [UPS](https://developer.ups.com/catalog?loc=da_DK) | JSON/XML/Webservice |    Private     |
+| [UPS](https://developer.ups.com/catalog?loc=da_DK) | JSON/XML/Webservice |    Private     |
 | [Unifaun](https://www.unifaunonline.se/rs-docs/)                                             |        JSON         |    Private     |
 | [Webshipper](https://docs.webshipper.io)                                                     |        JSON         |    Private     |
 | [Lagersystem.dk](https://api.lagersystem.dk)                                                 |        JSON         |    Private     |
@@ -136,7 +136,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Dinero](https://api.dinero.dk/docs)                                                                                    | JSON |    Private     |
 | [e-conomic](https://restdocs.e-conomic.com)                                                                             | JSON |    Private     |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                                         | JSON |    Private     |
-| <!-- markdown-link-check-disable-line --> [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/) | .NET |    Private     |
+| [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/) | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                                                                             | JSON |    Private     |
 | [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)                                                             | JSON |    Private     |
 
@@ -241,7 +241,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                                             |           JSON           |    Private     |
 | [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                                   |           JSON           |    Private     |
 | [Energi Data Service](https://www.energidataservice.dk/datasets)                                                                    |           JSON           |     Public     |
-| <!-- markdown-link-check-disable-line --> [SallingGroup (helligdage m.m)](https://developer.sallinggroup.dev/apireference/holidays) |           JSON           |     Public     |
+| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.dev/apireference/holidays) |           JSON           |     Public     |
 | [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                                     |           JSON           |     Public     |
 | [GuideDenmark](https://api.guidedanmark.org/Help)                                                                                   |           JSON           |    Private     |
 | [Previsto](https://docs.previsto.com/en/)                                                                                           |           JSON           |    Private     |

@@ -1,6 +1,0 @@
-{
-  "http-status-ignore": ["429", "500", "503", "403"],
-  "ignorePatterns": [
-    { "pattern": "^http://ignored" }
-  ]
-}
