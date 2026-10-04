@@ -88,7 +88,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------:|
 | [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen                                  |        JSON         |    Private     |
 | [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen                   |        JSON         |     Public     |
-| [Beredskabsstyrelsen](https://www.odin.dk/RSS/) - Seneste beredskabsinformation                                                                                        |         RSS         |     Public     |
+| [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                                                                        |         RSS         |     Public     |
 | [Energistyrelsen - EMOData-service, API-løsning til energimærker](https://emoweb.dk/emodata/test/)                                                                     |      JSON/XML       |    Private     |
 | [Dataforsyningen](https://dataforsyningen.dk/data)                                                                                                                     |        JSON         |     Public     |
 | [Dansk Adresse API](https://www.danskadresseapi.dk)                                                                                                                    |        JSON         |     Public     |
@@ -98,7 +98,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager |      REST API       |    Private     |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                                                              |      JSON/XML       |     Public     |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)                                                              | GeoJSON/GML/WMS/WFS |     Public     |
-| [HvemStemmerHvad](https://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                                                                              |         XML         |     Public     |
+| [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                                                                              |         XML         |     Public     |
 | [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                                                                       |      JSON/CSV       |     Public     |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)                                                       |    JSON/XML/KML     |     Public     |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                                                                               |      JSON/CSV       |    Private     |
@@ -142,11 +142,11 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Lønsystemer
 
-| API                                               | Type | Tilgængelighed |
-|---------------------------------------------------|:----:|:--------------:|
-| [Zenegy](https://developers.zenegy.com/)          | JSON |    Private     |
-| [Salary](https://api.salary.dk/docs)              | JSON |    Private     |
-| [DataLøn](https://dataloen-api.zendesk.com/hc/da) | JSON |    Private     |
+| API                                                  | Type | Tilgængelighed |
+|------------------------------------------------------|:----:|:--------------:|
+| [Zenegy](https://developers.zenegy.com/)             | JSON |    Private     |
+| [Salary](https://api.salary.dk/docs)                 | JSON |    Private     |
+| [DataLøn](https://openapi.dataloen.dk/documentation) | JSON |    Private     |
 
 ## Reklamer
 
