@@ -196,6 +196,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005) | JSON/XML |    Private     |
 | [Synsbasen API](https://api.synsbasen.dk)                                  |   JSON   |     Public     |
 | [Nummerplade API](https://hgsoftware.dk/nummerpladetjek)                   |   JSON   |     Public     |
+| [Motorbay](https://motorbay.app/)                                          |   JSON   |    Private     |
 
 ## Virksomhedsdata
 
