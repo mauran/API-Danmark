@@ -270,3 +270,14 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               |  JSON   |    Private     |
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser) |   XML   |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                 |  JSON   |    Private     |
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=mauran%2Fapi-danmark&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mauran/api-danmark&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mauran/api-danmark&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mauran/api-danmark&type=date&legend=top-left" />
+ </picture>
+</a>
