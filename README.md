@@ -182,11 +182,12 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 ## Telefoni
 
-| API                                                                               |   Type   | Tilgængelighed |
-|-----------------------------------------------------------------------------------|:--------:|:--------------:|
-| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf) | JSON/XML |    Private     |
-| [Relatel](https://dev.relatel.dk/)                                                |   JSON   |    Private     |
-| [ipnordic](https://apidocs.ipnordic.dk/)                                          |   JSON   |    Private     |
+| API                                                                                                                         |   Type   | Tilgængelighed |
+|-----------------------------------------------------------------------------------------------------------------------------|:--------:|:--------------:|
+| [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                                           | JSON/XML |    Private     |
+| [Relatel](https://dev.relatel.dk/)                                                                                          |   JSON   |    Private     |
+| [ipnordic](https://apidocs.ipnordic.dk/)                                                                                    |   JSON   |    Private     |
+| [Telecom X](https://wiki.telecomx.dk) |   JSON   |     Public     |
 
 ## Transport
 
