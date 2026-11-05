@@ -187,7 +187,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                                           | JSON/XML |    Private     |
 | [Relatel](https://dev.relatel.dk/)                                                                                          |   JSON   |    Private     |
 | [ipnordic](https://apidocs.ipnordic.dk/)                                                                                    |   JSON   |    Private     |
-| [Telecom X](https://wiki.telecomx.dk) - API til fastnet, mobil, PBX, TV og fakturering med realtidshændelser via Socket.IO. |   JSON   |     Public     |
+| [Telecom X](https://wiki.telecomx.dk) |   JSON   |     Public     |
 
 ## Transport
 
