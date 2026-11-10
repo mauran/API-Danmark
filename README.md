@@ -139,6 +139,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/)                                           | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                                                                             | JSON |    Private     |
 | [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)                                                             | JSON |    Private     |
+| [Numina](https://api.numina.app/docs)                                                                                   | JSON |     Public     |
 
 ## Lønsystemer
 
