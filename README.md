@@ -18,19 +18,19 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                       | Type | Tilgængelighed |
 |---------------------------------------------------------------------------|:----:|:--------------:|
-| [Clearhaus](https://docs.gateway.clearhaus.com/)                          | JSON |    Private     |
-| [ePay](https://docs.epay.dk/)                                             | JSON |    Private     |
-| [MobilePay/Vipps](https://developer.vippsmobilepay.com/)                  | JSON |     Public     |
-| [Paylike](https://github.com/paylike/api-docs)                            | JSON |    Private     |
-| [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)        | JSON |    Private     |
-| [OnPay](https://onpay.io/docs/technical/index.html#introduction)          | JSON |    Private     |
-| [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                    | JSON |    Private     |
-| [Billwerk+](https://optimize-docs.billwerk.com/)                          | JSON |    Private     |
 | [AltaPay](https://documentation.altapay.com/Content/Ecom/Ecom%20Home.htm) | JSON |    Private     |
-| [Scanpay](https://docs.scanpay.dev/)                                      | JSON |    Private     |
+| [Billwerk+](https://optimize-docs.billwerk.com/)                          | JSON |    Private     |
+| [Clearhaus](https://docs.gateway.clearhaus.com/)                          | JSON |    Private     |
+| [DIBS](https://dev-api.dibspayment.eu/docs/index.html)                    | JSON |    Private     |
+| [ePay](https://docs.epay.dk/)                                             | JSON |    Private     |
 | [FarPay](https://www.farpay.io/integrations/api/)                         | JSON |    Private     |
+| [MobilePay/Vipps](https://developer.vippsmobilepay.com/)                  | JSON |     Public     |
 | [Nets Netaxept](https://developer.nexigroup.com/netaxept/en-EU/docs/)     | XML  |    Private     |
+| [OnPay](https://onpay.io/docs/technical/index.html#introduction)          | JSON |    Private     |
+| [Paylike](https://github.com/paylike/api-docs)                            | JSON |    Private     |
 | [Pensopay](https://docs.pensopay.com/reference/getting-started)           | JSON |    Private     |
+| [QuickPay](https://learn.quickpay.net/tech-talk/api/#introduction)        | JSON |    Private     |
+| [Scanpay](https://docs.scanpay.dev/)                                      | JSON |    Private     |
 
 ## COVID-19
 
@@ -55,19 +55,19 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                           | Type | Tilgængelighed |
 |-----------------------------------------------------------------------------------------------|:----:|:--------------:|
-| [HostedShop](https://help.hostedshop.dk/integration-via-api) (Wannafind, Curanet & ScanNet)   | SOAP |    Private     |
-| [DanDomain Webshop ](https://webshop-help.dandomain.dk/integration-via-api/)                  | JSON |    Private     |
-| [DanDomain Webshop Classic](https://shoppartner.dandomain.dk/dokumentation/api-documentation) | JSON |    Private     |
-| [Shoporama](https://www.shoporama.dk/index/rest)                                              | JSON |    Private     |
-| [Simply.com](https://www.simply.com/dk/docs/api/)                                             | JSON |    Private     |
 | [Curanet (DNS)](https://api.curanet.dk/dns/swagger/index.html)                                | JSON |    Private     |
+| [curanet (Domains)](https://api.curanet.dk/domains/swagger/index.html)                        | JSON |    Private     |
 | [Curanet (Mail)](https://api.curanet.dk/mail/swagger/index.html)                              | JSON |    Private     |
+| [curanet (Orders)](https://api.curanet.dk/orders/swagger/index.html)                          | JSON |    Private     |
 | [curanet (Subscriptions)](https://api.curanet.dk/subscriptions/swagger/index.html)            | JSON |    Private     |
 | [curanet (Webhotel)](https://api.curanet.dk/webhotel/swagger/index.html)                      | JSON |    Private     |
-| [curanet (Orders)](https://api.curanet.dk/orders/swagger/index.html)                          | JSON |    Private     |
-| [curanet (Domains)](https://api.curanet.dk/domains/swagger/index.html)                        | JSON |    Private     |
-| [One.com (Webshop)](https://webshop.one.com/api/v2/docs)                                      | JSON |    Private     |
+| [DanDomain Webshop ](https://webshop-help.dandomain.dk/integration-via-api/)                  | JSON |    Private     |
+| [DanDomain Webshop Classic](https://shoppartner.dandomain.dk/dokumentation/api-documentation) | JSON |    Private     |
+| [HostedShop](https://help.hostedshop.dk/integration-via-api) (Wannafind, Curanet & ScanNet)   | SOAP |    Private     |
 | [One.com (VPS)](https://vps.one.com/docs/api#/)                                               | JSON |    Private     |
+| [One.com (Webshop)](https://webshop.one.com/api/v2/docs)                                      | JSON |    Private     |
+| [Shoporama](https://www.shoporama.dk/index/rest)                                              | JSON |    Private     |
+| [Simply.com](https://www.simply.com/dk/docs/api/)                                             | JSON |    Private     |
 
 ## Vejr
 
@@ -86,46 +86,46 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                                                                                    |        Type         | Tilgængelighed |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------:|
-| [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen                                  |        JSON         |    Private     |
-| [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen                   |        JSON         |     Public     |
 | [Beredskabsstyrelsen](http://www.odin.dk/RSS/) - Seneste beredskabsinformation                                                                                        |         RSS         |     Public     |
-| [Energistyrelsen - EMOData-service, API-løsning til energimærker](https://emoweb.dk/emodata/test/)                                                                     |      JSON/XML       |    Private     |
-| [Dataforsyningen](https://dataforsyningen.dk/data)                                                                                                                     |        JSON         |     Public     |
 | [Dansk Adresse API](https://www.danskadresseapi.dk)                                                                                                                    |        JSON         |     Public     |
-| [DAWA-erstatning fra companydata.dk](https://dawa.companydata.dk)                                                                                                      |        JSON         |     Public     |
-| [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                                                                           |        JSON         |     Public     |
 | [Datafordeler.dk - Din indgang til offentlige grunddata fra danmarks myndigheder](https://datafordeler.dk)                                                             |        JSON         |     Public     |
+| [Dataforsyningen](https://dataforsyningen.dk/data)                                                                                                                     |        JSON         |     Public     |
+| [DAWA-erstatning fra companydata.dk](https://dawa.companydata.dk)                                                                                                      |        JSON         |     Public     |
 | [Domsdatabasen](https://domsdatabasen.dk/sporgsmal-og-svar/api-adgang-til-domsdatabasen/) - fortrinsvis civile sager. Deruover historiske civile sager og straffesager |      REST API       |    Private     |
+| [Energistyrelsen - EMOData-service, API-løsning til energimærker](https://emoweb.dk/emodata/test/)                                                                     |      JSON/XML       |    Private     |
 | [Folketinget](https://www.ft.dk/da/dokumenter/aabne_data)                                                                                                              |      JSON/XML       |     Public     |
+| [Fælles Bibliotek Infrastruktur](https://fbi-api.dbc.dk/)                                                                                                              |        JSON         |    Private     |
 | [Geografiske fagdata i GeoDanmark (GeoFA)](https://www.geodanmark.dk/home/vejledninger/geofa/hent-geofa/)                                                              | GeoJSON/GML/WMS/WFS |     Public     |
+| [Hjælpemiddelbasen](https://hmi-basen.dk/news.asp?newsid=4325&x_newstype=29)                                                                                           |        JSON         |     Public     |
 | [HvemStemmerHvad](http://www.hvemstemmerhvad.dk/api/api.php) - information om politikere                                                                              |         XML         |     Public     |
 | [Kommunernes og Regionernes Løndatakontor](https://krl.dk/#/apibeta/description)                                                                                       |      JSON/CSV       |     Public     |
+| [Lægemiddelstyrelsen, medicinpriser](https://api.medicinpriser.dk/)                                                                                                    |      JSON/XML       |     Public     |
 | [Mastedatabasen](https://mastedatabasen.dk/Viskort/ContentPages/DataFraDatabasen.aspx?callingapp=mastedb#webapi)                                                       |    JSON/XML/KML     |     Public     |
 | [Min Uddannelse](https://api.minuddannelse.net/metadata)                                                                                                               |      JSON/CSV       |    Private     |
 | [OpenData.dk](https://opendata.dk) - fællesoffentlig forening for udbredelse af åbne data                                                                              |     Forskelligt     |     Public     |
-| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)                                                              |      JSON/XML       |    Private     |
-| [Retsinformation](https://api.retsinformation.dk/index.html)                                                                                                           |        JSON         |     Public     |
 | [Retsinformation API](https://retsinformation-api.dk/)                                                                                                                 |        JSON         |     Public     |
-| [Statstidende](https://api.statstidende.dk/docs/index.html) - Kræver certifikat for at tilgå                                                                           |        JSON         |    Private     |
+| [Retsinformation](https://api.retsinformation.dk/index.html)                                                                                                           |        JSON         |     Public     |
 | [Skattestyrelsen, API-løsning til momsindberetning](https://skat.dk/erhverv/moms/momsregnskab/api-loesning-til-momsindberetning)                                       |        SOAP         |    Private     |
-| [Lægemiddelstyrelsen, medicinpriser](https://api.medicinpriser.dk/)                                                                                                    |      JSON/XML       |     Public     |
-| [Fælles Bibliotek Infrastruktur](https://fbi-api.dbc.dk/)                                                                                                              |        JSON         |    Private     |
+| [Statstidende](https://api.statstidende.dk/docs/index.html) - Kræver certifikat for at tilgå                                                                           |        JSON         |    Private     |
+| [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen                                  |        JSON         |    Private     |
+| [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen                   |        JSON         |     Public     |
+| [UNI-LOGIN / Grundskolerne](https://viden.stil.dk/display/INFRA2/Unilogin+SkoleGrunddata+BPI-webservices)                                                              |      JSON/XML       |    Private     |
 
 ## Pakker & logistisk
 
 | API                                                                                          |        Type         | Tilgængelighed |
 |----------------------------------------------------------------------------------------------|:-------------------:|:--------------:|
 | [Bring Developer](https://developer.bring.com)                                               |    JSON/XML/SOAP    |     Public     |
-| [HomeRunner](https://docs.homerunner.com/)                                                   |        JSON         |    Private     |
 | [GLS Pakkeshops](https://www.gls.dk/webservices_v2/wsPakkeshop.asmx?WSD)                     |        SOAP         |     Public     |
 | [GLS Parcel Processing](https://api.gls.dk/ws/)                                              |      JSON/XML       |    Private     |
-| [Shipmondo](https://app.shipmondo.com/api/public/v3/specification)                           |        JSON         |    Private     |
-| [PostNord Developer](https://developer.postnord.com)                                         |        JSON         |    Private     |
-| [UPS](https://developer.ups.com/catalog?loc=da_DK)                                           | JSON/XML/Webservice |    Private     |
-| [Unifaun](https://www.unifaunonline.se/rs-docs/)                                             |        JSON         |    Private     |
-| [Webshipper](https://docs.webshipper.io)                                                     |        JSON         |    Private     |
+| [HomeRunner](https://docs.homerunner.com/)                                                   |        JSON         |    Private     |
 | [Lagersystem.dk](https://api.lagersystem.dk)                                                 |        JSON         |    Private     |
+| [PostNord Developer](https://developer.postnord.com)                                         |        JSON         |    Private     |
 | [Rackbeat.dk](https://api.rackbeat.com)                                                      |        JSON         |    Private     |
+| [Shipmondo](https://app.shipmondo.com/api/public/v3/specification)                           |        JSON         |    Private     |
+| [Unifaun](https://www.unifaunonline.se/rs-docs/)                                             |        JSON         |    Private     |
+| [UPS](https://developer.ups.com/catalog?loc=da_DK)                                           | JSON/XML/Webservice |    Private     |
+| [Webshipper](https://docs.webshipper.io)                                                     |        JSON         |    Private     |
 
 
 ## Regnskabsprogrammer
@@ -133,21 +133,21 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                                     | Type | Tilgængelighed |
 |-------------------------------------------------------------------------------------------------------------------------|:----:|:--------------:|
 | [Billy](https://www.billy.dk/api)                                                                                       | JSON |    Private     |
+| [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)                                                             | JSON |    Private     |
 | [Dinero](https://api.dinero.dk/docs)                                                                                    | JSON |    Private     |
-| [e-conomic](https://restdocs.e-conomic.com)                                                                             | JSON |    Private     |
 | [DynAccount](https://dynaccount.dk/funktioner/api-integration/)                                                         | JSON |    Private     |
+| [e-conomic](https://restdocs.e-conomic.com)                                                                             | JSON |    Private     |
+| [Numina](https://api.numina.app/docs)                                                                                   | JSON |     Public     |
 | [Uniconta](https://www.uniconta.com/developers-unipedia-global/uniconta-api/)                                           | .NET |    Private     |
 | [Visma](https://developer.vismaonline.com/)                                                                             | JSON |    Private     |
-| [Digital Revisor](https://api.digitalrevisor.nu/openapi/v1)                                                             | JSON |    Private     |
-| [Numina](https://api.numina.app/docs)                                                                                   | JSON |     Public     |
 
 ## Lønsystemer
 
 | API                                                  | Type | Tilgængelighed |
 |------------------------------------------------------|:----:|:--------------:|
-| [Zenegy](https://developers.zenegy.com/)             | JSON |    Private     |
-| [Salary](https://api.salary.dk/docs)                 | JSON |    Private     |
 | [DataLøn](https://openapi.dataloen.dk/documentation) | JSON |    Private     |
+| [Salary](https://api.salary.dk/docs)                 | JSON |    Private     |
+| [Zenegy](https://developers.zenegy.com/)             | JSON |    Private     |
 
 ## Reklamer
 
@@ -159,13 +159,13 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                    |   Type    | Tilgængelighed |
 |--------------------------------------------------------|:---------:|:--------------:|
-| [Txty.dk](https://docs.login.txty.dk/4/)               |   JSON    |    Private     |
+| [CPSMS.dk](https://api.cpsms.dk/documentation/)        |   JSON    |    Private     |
+| [GatewayAPI.com](https://gatewayapi.com/docs/)         | JSON/SOAP |    Private     |
+| [inMobile.com](https://www.inmobile.com/docs/rest-api) |   JSON    |    Private     |
 | [SMS.dk](https://docs.sms.dk/)                         |   JSON    |    Private     |
 | [SMS1919.dk](https://www.sms1919.dk/api/)              |    XML    |    Private     |
 | [SureSMS](https://developer.suresms.com/)              | JSON/SOAP |    Private     |
-| [GatewayAPI.com](https://gatewayapi.com/docs/)         | JSON/SOAP |    Private     |
-| [CPSMS.dk](https://api.cpsms.dk/documentation/)        |   JSON    |    Private     |
-| [inMobile.com](https://www.inmobile.com/docs/rest-api) |   JSON    |    Private     |
+| [Txty.dk](https://docs.login.txty.dk/4/)               |   JSON    |    Private     |
 
 ## E-mail marketing
 
@@ -186,8 +186,8 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                                                                         |   Type   | Tilgængelighed |
 |-----------------------------------------------------------------------------------------------------------------------------|:--------:|:--------------:|
 | [Flexfone](https://cdn.rawgit.com/mauran/API-Danmark/e35d562/assets/flexfone.pdf)                                           | JSON/XML |    Private     |
-| [Relatel](https://dev.relatel.dk/)                                                                                          |   JSON   |    Private     |
 | [ipnordic](https://apidocs.ipnordic.dk/)                                                                                    |   JSON   |    Private     |
+| [Relatel](https://dev.relatel.dk/)                                                                                          |   JSON   |    Private     |
 | [Telecom X](https://wiki.telecomx.dk) |   JSON   |     Public     |
 
 ## Transport
@@ -195,30 +195,30 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | API                                                                        |   Type   | Tilgængelighed |
 |----------------------------------------------------------------------------|:--------:|:--------------:|
 | [DSB feeds](https://www.dsb.dk/dsb-labs/feeds)                             |   RSS    |     Public     |
+| [Motorbay](https://motorbay.app/)                                          |   JSON   |    Private     |
+| [Nummerplade API](https://hgsoftware.dk/nummerpladetjek)                   |   JSON   |     Public     |
 | [Rejseplanen Labs](https://help.rejseplanen.dk/hc/da/categories/201728005) | JSON/XML |    Private     |
 | [Synsbasen API](https://api.synsbasen.dk)                                  |   JSON   |     Public     |
-| [Nummerplade API](https://hgsoftware.dk/nummerpladetjek)                   |   JSON   |     Public     |
-| [Motorbay](https://motorbay.app/)                                          |   JSON   |    Private     |
 
 ## Virksomhedsdata
 
 | API                                                                                                                                                  | Type                    | Tilgængelighed |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|----------------|
+| [APICVR (Public Beta)](https://apicvr.dk)                                                                                                            | JSON                    | Public         |
+| [companydata.dk - CVR-data, regnskaber, ejere og webhooks](https://companydata.dk/da/api)                                                            | JSON                    | Public         |
+| [CVR Intel](https://cvrintel.dk/cvr-api/)                                                                                                            | JSON/XML/PLAIN/HTML/RAW | Private        |
+| [CVR Lookup](https://cvrlookup.dk/cvr-api)                                                                                                           | JSON/CSV                | Public         |
+| [cvr.dev](https://cvr.dev)                                                                                                                           | JSON                    | Private        |
 | [CVRAPI](https://cvrapi.dk)                                                                                                                          | JSON                    | Public         |
+| [cvrradar](https://cvrradar.dk/api) - Opslag i CVR på navn, CVR-nummer, domæne eller mail                                                            | JSON                    | Public         |
 | [Dansk CVR API](https://www.danskcvrapi.dk)                                                                                                          | JSON                    | Public         |
+| [EAN API](https://eanapi.dk/)                                                                                                                        | JSON                    | Private        |
+| [eniro](https://api.eniro.com)                                                                                                                       | JSON                    | Private        |
+| [FirmaAPI](https://firmaapi.dk)                                                                                                                      | JSON                    | Public         |
 | [System-til-system-adgang CVR](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-cvr-data) udarbejdet af Erhvervsstyrelsen                | JSON                    | Private        |
 | [System-til-system-adgang Regnskabsdata](https://datacvr.virk.dk/artikel/system-til-system-adgang-til-regnskabsdata) udarbejdet af Erhvervsstyrelsen | JSON                    | Private        |
-| [VirkData](https://virkdata.dk)                                                                                                                      | JSON/XML/PLAIN/HTML/RAW | Public         |
-| [eniro](https://api.eniro.com)                                                                                                                       | JSON                    | Private        |
-| [EAN API](https://eanapi.dk/)                                                                                                                        | JSON                    | Private        |
-| [cvr.dev](https://cvr.dev)                                                                                                                           | JSON                    | Private        |
-| [APICVR (Public Beta)](https://apicvr.dk)                                                                                                            | JSON                    | Public         |
-| [CVR Intel](https://cvrintel.dk/cvr-api/)                                                                                                            | JSON/XML/PLAIN/HTML/RAW | Private        |
-| [FirmaAPI](https://firmaapi.dk)                                                                                                                      | JSON                    | Public         |
-| [CVR Lookup](https://cvrlookup.dk/cvr-api)                                                                                                           | JSON/CSV                | Public         |
 | [UniteApps CVR - data, identitet og regnskaber](https://cvr.uniteapps.dk/docs/api)                                                                   | JSON                    | Public         |
-| [companydata.dk - CVR-data, regnskaber, ejere og webhooks](https://companydata.dk/da/api)                                                            | JSON                    | Public         |
-| [cvrradar](https://cvrradar.dk/api) - Opslag i CVR på navn, CVR-nummer, domæne eller mail                                                            | JSON                    | Public         |
+| [VirkData](https://virkdata.dk)                                                                                                                      | JSON/XML/PLAIN/HTML/RAW | Public         |
 
 ## POS
 
@@ -231,38 +231,38 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 | API                                                                                                                                 |           Type           | Tilgængelighed |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------:|:--------------:|
-| [Circle K/Ingo](https://www.circlek.dk/media-assets/uploads/2025-12/DK%20Fuel%20Prices%20API%20doc.pdf)                             |           JSON           |     Public     |
-| [fuelprices.dk](https://fuelprices.dk/)                                                                                             |           JSON           |     Public     |
-| [Go'on](https://goon.nu/faa-adgang-til-api/)                                                                                        |           JSON           |     Public     |
-| [OK](https://www.ok.dk/privat/produkter/priser)                                                                                     |           JSON           |     Public     |
-| [Q8/F24](https://beta.q8.dk/Station/GetStationPrices)                                                                               |           JSON           |     Public     |
-| [Shell](https://shellpumpepriser.geoapp.me/v1/prices)                                                                               |           JSON           |     Public     |
-| [Uno-X](https://unoxmobility.dk/privat/braendstofpriser)                                                                            |           JSON           |     Public     |
-| [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                 |           XML            |     Public     |
-| [MadOpskrifter.nu](https://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                                          |           JSON           |     Public     |
-| [Trustpilot](https://developers.trustpilot.com/)                                                                                    |           JSON           |    Private     |
-| [TimeLog](https://api.timelog.com/)                                                                                                 |           XML            |     Public     |
-| [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                                             |           JSON           |    Private     |
-| [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                                   |           JSON           |    Private     |
-| [Energi Data Service](https://www.energidataservice.dk/datasets)                                                                    |           JSON           |     Public     |
-| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.dev/apireference/holidays)                                           |           JSON           |     Public     |
-| [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                                     |           JSON           |     Public     |
-| [GuideDenmark](https://api.guidedanmark.org/Help)                                                                                   |           JSON           |    Private     |
-| [Previsto](https://docs.previsto.com/en/)                                                                                           |           JSON           |    Private     |
-| [MotorAPI](https://motorapi.dk/)                                                                                                    |           JSON           |     Public     |
-| [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                                |           JSON           |    Private     |
-| [Penneo](https://penneo.readme.io/)                                                                                                 |           JSON           |    Private     |
-| [GetAccept](https://app.getaccept.com/api/)                                                                                         |           JSON           |    Private     |
-| [Det Centrale Ordregister](https://ordregister.dk/)                                                                                 |           JSON           |     Public     |
-| [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                                      | JSON, XML, CSV, KML, RSS |     Public     |
-| [elprisenligenu.dk](https://www.elprisenligenu.dk/elpris-api)                                                                       |           JSON           |     Public     |
-| [Min strøm.app](https://www.minstroem.app/api)                                                                                      |           JSON           |     Public     |
-| [Dansk Data API](https://danskdataapi.dk/)                                                                                          |           JSON           |    Private     |
-| [Er der ferie?](https://www.erderferie.dk/api/v1)                                                                                   |           JSON           |     Public     |
 | [APIAPI.dk - API til at finde API'erne](https://apiapi.dk/)                                                                         |           JSON           |     Public     |
-| [Grundata API](https://grunddataapi.dk/)                                                                                            |           JSON           |     Public     |
+| [Circle K/Ingo](https://www.circlek.dk/media-assets/uploads/2025-12/DK%20Fuel%20Prices%20API%20doc.pdf)                             |           JSON           |     Public     |
+| [Dansk Data API](https://danskdataapi.dk/)                                                                                          |           JSON           |    Private     |
+| [Det Centrale Ordregister](https://ordregister.dk/)                                                                                 |           JSON           |     Public     |
+| [Det Danske Filminstitut](https://www.dfi.dk/viden-om-film/filmdatabasen/abne-data)                                                 |           XML            |     Public     |
 | [Domainbutler](https://domainbutler.dk/om) - Nyligt slettede .dk-domæner                                                           |           JSON           |     Public     |
+| [Eloverblik.dk](https://api.eloverblik.dk/customerapi/index.html)                                                                   |           JSON           |    Private     |
+| [elprisenligenu.dk](https://www.elprisenligenu.dk/elpris-api)                                                                       |           JSON           |     Public     |
+| [Energi Data Service](https://www.energidataservice.dk/datasets)                                                                    |           JSON           |     Public     |
+| [Er der ferie?](https://www.erderferie.dk/api/v1)                                                                                   |           JSON           |     Public     |
+| [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                                      | JSON, XML, CSV, KML, RSS |     Public     |
+| [fuelprices.dk](https://fuelprices.dk/)                                                                                             |           JSON           |     Public     |
+| [GetAccept](https://app.getaccept.com/api/)                                                                                         |           JSON           |    Private     |
+| [Go'on](https://goon.nu/faa-adgang-til-api/)                                                                                        |           JSON           |     Public     |
+| [Grundata API](https://grunddataapi.dk/)                                                                                            |           JSON           |     Public     |
+| [GuideDenmark](https://api.guidedanmark.org/Help)                                                                                   |           JSON           |    Private     |
+| [MadOpskrifter.nu](https://start.madopskrifter.nu/MadopskrifternuAPI.aspx)                                                          |           JSON           |     Public     |
+| [Min strøm.app](https://www.minstroem.app/api)                                                                                      |           JSON           |     Public     |
+| [MotorAPI](https://motorapi.dk/)                                                                                                    |           JSON           |     Public     |
+| [OK](https://www.ok.dk/privat/produkter/priser)                                                                                     |           JSON           |     Public     |
+| [Ordrestyring.dk](https://graphql.ordrestyring.dk/docs)                                                                             |           JSON           |    Private     |
+| [Penneo](https://penneo.readme.io/)                                                                                                 |           JSON           |    Private     |
+| [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                                |           JSON           |    Private     |
+| [Previsto](https://docs.previsto.com/en/)                                                                                           |           JSON           |    Private     |
+| [Q8/F24](https://beta.q8.dk/Station/GetStationPrices)                                                                               |           JSON           |     Public     |
+| [SallingGroup (helligdage m.m)](https://developer.sallinggroup.dev/apireference/holidays)                                           |           JSON           |     Public     |
+| [Shell](https://shellpumpepriser.geoapp.me/v1/prices)                                                                               |           JSON           |     Public     |
+| [Statens Museum for Kunst](https://www.smk.dk/article/smk-api/)                                                                     |           JSON           |     Public     |
 | [Strømligning](https://stromligning.dk/api/docs/) - Elpriser med nettarif og afgifter, elselskaber, produkter og prognoser         |           JSON           |     Public     |
+| [TimeLog](https://api.timelog.com/)                                                                                                 |           XML            |     Public     |
+| [Trustpilot](https://developers.trustpilot.com/)                                                                                    |           JSON           |    Private     |
+| [Uno-X](https://unoxmobility.dk/privat/braendstofpriser)                                                                            |           JSON           |     Public     |
 
 ## Finans
 
@@ -270,9 +270,9 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 |----------------------------------------------------------------------------|:-------:|:--------------:|
 | [Bankdata](https://www.bankdata.dk/developers/api/getting-started)         | Unknown |    Private     |
 | [Danske Bank](https://developers.danskebank.com/)                          |  JSON   |    Private     |
-| [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               |  JSON   |    Private     |
 | [Nationalbankens valutakurser](https://www.nationalbanken.dk/valutakurser) |   XML   |     Public     |
 | [Nordnet API](https://www.nordnet.dk/externalapi/docs/api)                 |  JSON   |    Private     |
+| [Saxobank OpenAPI](https://www.developer.saxo/openapi/learn)               |  JSON   |    Private     |
 
 
 ## Star History
