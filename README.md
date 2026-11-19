@@ -253,7 +253,6 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Pollental](https://www.astma-allergi.dk/pollenservices/pollenfeed/)                                                                |           JSON           |    Private     |
 | [Penneo](https://penneo.readme.io/)                                                                                                 |           JSON           |    Private     |
 | [GetAccept](https://app.getaccept.com/api/)                                                                                         |           JSON           |    Private     |
-| [BilligKWH](https://billigkwh.dk/restfulapi)                                                                                        |           JSON           |     Public     |
 | [Det Centrale Ordregister](https://ordregister.dk/)                                                                                 |           JSON           |     Public     |
 | [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                                      | JSON, XML, CSV, KML, RSS |     Public     |
 | [elprisenligenu.dk](https://www.elprisenligenu.dk/elpris-api)                                                                       |           JSON           |     Public     |
