@@ -263,6 +263,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [APIAPI.dk - API til at finde API'erne](https://apiapi.dk/)                                                                         |           JSON           |     Public     |
 | [Grundata API](https://grunddataapi.dk/)                                                                                            |           JSON           |     Public     |
 | [Domainbutler](https://domainbutler.dk/om) - Nyligt slettede .dk-domæner                                                           |           JSON           |     Public     |
+| [Strømligning](https://stromligning.dk/api/docs/) - Elpriser med nettarif og afgifter, elselskaber, produkter og prognoser         |           JSON           |     Public     |
 
 ## Finans
 
